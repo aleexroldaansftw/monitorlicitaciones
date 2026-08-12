@@ -6782,14 +6782,14 @@
       "fallo": null,
       "junta_prog": "2026-08-13",
       "apertura_prog": "2026-08-17",
-      "fallo_prog": "2026-08-21",
+      "fallo_prog": null,
       "url_pdf": "pdfs/EA-913003989-N0449-2026.pdf",
       "objeto": "objeto de esta licitación.",
       "fecha_detectada": "2026-08-12",
       "intentos_pdf": 3,
       "junta_hora": "17:00",
       "apertura_hora": "12:00",
-      "fallo_hora": "10:00"
+      "fallo_hora": null
     },
     "EA-913003989-N0450-2026": {
       "numero": "EA-913003989-N0450-2026",
