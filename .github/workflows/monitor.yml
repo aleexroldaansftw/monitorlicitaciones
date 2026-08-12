@@ -1,0 +1,36 @@
+name: Monitor de licitaciones Hidalgo
+
+on:
+  schedule:
+    - cron: "0 14 * * 1-5"   # L-V 8:00 AM hora del centro de México
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar monitor
+        env:
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}      # opcional
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}  # opcional
+        run: python monitor_licitaciones.py
+
+      - name: Guardar datos y tablero en el repo
+        run: |
+          git config user.name "monitor-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "Actualización $(date +'%Y-%m-%d')"
+          git push
