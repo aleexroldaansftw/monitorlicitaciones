@@ -262,7 +262,12 @@ def analizar_pdf(contenido):
     res["junta_prog"], res["junta_hora"] = _fecha_cerca(norm, texto, [r"junta\s+de\s+aclaraciones"])
     res["apertura_prog"], res["apertura_hora"] = _fecha_cerca(
         norm, texto, [r"apertura\s+de\s+prop", r"presentacion\s+y\s+apertura"])
-    res["fallo_prog"], res["fallo_hora"] = _fecha_cerca(norm, texto, [r"\bfallo\b"])
+    # Ancorado a la sección "Plazo y lugar para el fallo": la palabra "fallo"
+    # sola aparece muchas veces en el PDF (firma del contrato, acto de fallo
+    # mencionado en otras cláusulas, etc.) y podía capturar por error fechas
+    # de secciones distintas, como la de prestación del servicio.
+    res["fallo_prog"], res["fallo_hora"] = _fecha_cerca(
+        norm, texto, [r"plazo\s+y\s+lugar\s+para\s+el\s+fallo"])
 
     m = re.search(r"(?:relativa?\s+a\s+l?a?\s+|objeto[:\s]+|contratacion\s+de\s+|adquisicion\s+de\s+|servicio\s+de\s+|arrendamiento\s+de\s+)", norm)
     if m:
