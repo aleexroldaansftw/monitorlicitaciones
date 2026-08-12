@@ -18,6 +18,7 @@ import unicodedata
 from datetime import datetime, date, timedelta
 from io import BytesIO
 from pathlib import Path
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -78,14 +79,32 @@ def get(url, **kw):
 # ------------------------- parsing del árbol -------------------------
 
 def extraer_nodos(html):
-    """Devuelve lista de (texto, href) en orden de documento."""
+    """Devuelve lista de (texto, href) en orden de documento.
+
+    El portal arma cada fila como <tr> con el texto ("NUMERO | fecha") en un
+    <td> y el botón de descarga como <input onclick="__doPostBack(...)">
+    en otro <td> de la misma fila (no hay <a href> reales en la página, solo
+    se conserva ese caso como respaldo por si el portal cambia).
+    """
     soup = BeautifulSoup(html, "html.parser")
     nodos = []
-    for el in soup.find_all(["a", "span", "td"]):
-        txt = " ".join(el.get_text(" ", strip=True).split())
-        if not txt or "|" not in txt:
+    for tr in soup.find_all("tr"):
+        txt = None
+        for el in tr.find_all(["td", "span"]):
+            t = " ".join(el.get_text(" ", strip=True).split())
+            if t and "|" in t:
+                txt = t
+                break
+        if not txt:
             continue
-        href = el.get("href") if el.name == "a" else None
+        href = None
+        a = tr.find("a", href=True)
+        if a:
+            href = a["href"]
+        else:
+            inp = tr.find("input", onclick=re.compile(r"__doPostBack"))
+            if inp:
+                href = inp.get("onclick")
         if nodos and nodos[-1][0] == txt:
             if href and not nodos[-1][1]:
                 nodos[-1] = (txt, href)
@@ -154,7 +173,7 @@ def descargar_pdf_licitacion(html_pagina, href_nodo, numero):
 
     # Caso 1: enlace directo
     if "__doPostBack" not in href_nodo:
-        url = href_nodo if href_nodo.startswith("http") else BASE + "/" + href_nodo.lstrip("/").replace("../", "")
+        url = href_nodo if href_nodo.startswith("http") else urljoin(URL, href_nodo)
         try:
             r = get(url)
             if r.content[:4] == b"%PDF":
@@ -182,7 +201,7 @@ def descargar_pdf_licitacion(html_pagina, href_nodo, numero):
         m2 = re.search(r"['\"]([^'\"]+\.pdf[^'\"]*)['\"]", r.text, re.I)
         if m2:
             url = m2.group(1)
-            url = url if url.startswith("http") else BASE + "/" + url.lstrip("/").replace("../", "")
+            url = url if url.startswith("http") else urljoin(URL, url)
             r2 = get(url)
             if r2.content[:4] == b"%PDF":
                 return r2.content
