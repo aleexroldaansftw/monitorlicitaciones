@@ -17,7 +17,6 @@
   *{box-sizing:border-box;margin:0}
   body{background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;line-height:1.45}
 
-  /* Banda institucional */
   header{background:var(--guinda);color:#fff;padding:22px 20px 18px}
   .cabecera{max-width:1060px;margin:0 auto;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;justify-content:space-between}
   .titulo h1{font-size:clamp(20px,3.5vw,27px);font-weight:800;letter-spacing:-.01em}
@@ -27,7 +26,6 @@
   .conteos b{display:block;font-size:22px;font-weight:600}
   .conteos span{font-size:11px;opacity:.8;font-family:var(--sans)}
 
-  /* Controles */
   .controles{position:sticky;top:0;z-index:5;background:var(--fondo);border-bottom:1px solid var(--linea);padding:12px 20px}
   .controles-int{max-width:1060px;margin:0 auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
   #busca{flex:1;min-width:220px;padding:10px 14px;border:1px solid var(--linea);border-radius:var(--radio);font:inherit;background:var(--panel)}
@@ -40,32 +38,36 @@
   #vacio{display:none;text-align:center;color:var(--tinta2);padding:60px 0}
   .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}
 
-  /* Tarjeta */
   .card{background:var(--panel);border:1px solid var(--linea);border-radius:var(--radio);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px}
   .card.nueva{border-color:var(--oro);box-shadow:0 0 0 1px var(--oro)}
   .fila-sup{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
   .folio{font-family:var(--mono);font-weight:600;font-size:14px;letter-spacing:.01em}
-  .folio a{color:var(--guinda);text-decoration:none}
-  .folio a:hover{text-decoration:underline}
   .badge{font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--oro);border:1px solid var(--oro);border-radius:4px;padding:2px 6px;white-space:nowrap}
   .conv{font-size:12px;color:var(--tinta2)}
   .objeto{font-size:13.5px;min-height:1.2em}
   .objeto.sin{color:var(--tinta2);font-style:italic}
 
-  /* Riel de etapas: Junta -> Apertura -> Fallo */
-  .riel{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;margin-top:2px;border-top:1px dashed var(--linea);padding-top:10px}
+  .riel{display:grid;grid-template-columns:1fr 1fr 1fr;margin-top:2px;border-top:1px dashed var(--linea);padding-top:10px}
   .etapa{position:relative;padding-left:16px}
   .etapa::before{content:"";position:absolute;left:0;top:5px;width:9px;height:9px;border-radius:50%;border:2px solid var(--linea);background:var(--panel)}
   .etapa.hecha::before{background:var(--guinda);border-color:var(--guinda)}
-  .etapa.futura::before{border-color:var(--verde);background:var(--panel)}
-  .etapa:not(:first-child)::after{content:"";position:absolute;left:-100%;top:9px;width:calc(100% - 14px);margin-left:14px;border-top:2px solid var(--linea)}
-  .etapa.hecha:not(:first-child)::after{border-color:var(--guinda)}
+  .etapa.futura::before{border-color:var(--verde)}
+  .etapa.prog::before{border-color:var(--oro)}
   .etapa small{display:block;font-size:10px;letter-spacing:.05em;text-transform:uppercase;color:var(--tinta2)}
-  .etapa b{font-family:var(--mono);font-size:12.5px;font-weight:500}
+  .etapa b{font-family:var(--mono);font-size:12.5px;font-weight:500;display:block}
+  .etapa .hora{font-family:var(--mono);font-size:11px;color:var(--tinta2)}
   .etapa.pend b{color:var(--tinta2);font-weight:400}
   .etapa.futura b{color:var(--verde);font-weight:600}
+  .etapa.prog b{color:var(--oro);font-weight:600}
 
-  footer{max-width:1060px;margin:0 auto;padding:0 20px 40px;font-size:12px;color:var(--tinta2)}
+  .acciones{display:flex;justify-content:flex-end;margin-top:2px}
+  .btn-pdf{font-size:12.5px;font-weight:600;color:var(--guinda);text-decoration:none;border:1px solid var(--guinda);border-radius:6px;padding:5px 10px}
+  .btn-pdf:hover{background:var(--guinda-suave)}
+
+  .leyenda{max-width:1060px;margin:6px auto 0;padding:0 20px;font-size:11.5px;color:var(--tinta2);display:flex;gap:16px;flex-wrap:wrap}
+  .pto{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:baseline}
+
+  footer{max-width:1060px;margin:20px auto 40px;padding:0 20px;font-size:12px;color:var(--tinta2)}
   footer a{color:var(--guinda)}
   @media (prefers-reduced-motion:no-preference){
     .card{animation:aparece .25s ease both}
@@ -97,14 +99,21 @@
   </div>
 </div>
 
+<div class="leyenda">
+  <span><i class="pto" style="background:var(--guinda)"></i>Acta publicada</span>
+  <span><i class="pto" style="border:2px solid var(--oro)"></i>Programada (según convocatoria)</span>
+  <span><i class="pto" style="border:2px solid var(--verde)"></i>Próxima</span>
+  <span><i class="pto" style="border:2px solid var(--linea)"></i>Pendiente</span>
+</div>
+
 <main>
   <div class="grid" id="lista"></div>
   <p id="vacio">Ninguna licitación coincide con tu búsqueda.</p>
 </main>
 
 <footer>
-  Las fechas corresponden a la publicación de cada acta en el portal oficial; las fechas programadas con hora exacta
-  están en el PDF de cada convocatoria. Fuente: <a id="fuente" href="#" target="_blank" rel="noopener">e-Oficialía Hidalgo</a>.
+  Las fechas programadas provienen del PDF de cada convocatoria; los puntos guinda indican actas ya publicadas en el portal.
+  Fuente oficial: <a id="fuente" href="#" target="_blank" rel="noopener">e-Oficialía Hidalgo</a>.
 </footer>
 
 <script>
@@ -112,15 +121,14 @@ const D = __DATOS__;
 const HOY = D.hoy;
 const MS_DIA = 86400000;
 const fmt = iso => {
-  if(!iso) return null;
+  if(!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso || null;
   const [a,m,d] = iso.split("-");
   const meses = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
   return `${+d} ${meses[+m-1]} ${a.slice(2)}`;
 };
-const esNueva = l => l.fecha_detectada &&
-  (new Date(HOY) - new Date(l.fecha_detectada)) / MS_DIA < D.dias_nueva;
+const esNueva = l => l.fecha_detectada && (new Date(HOY) - new Date(l.fecha_detectada)) / MS_DIA < D.dias_nueva;
 const esFutura = iso => iso && iso >= HOY;
-const tieneProxima = l => [l.junta_aclaraciones, l.apertura, l.fallo].some(esFutura);
+const tieneProxima = l => [l.junta_aclaraciones, l.apertura, l.fallo, l.junta_prog, l.apertura_prog, l.fallo_prog].some(esFutura);
 
 document.getElementById("act").textContent = D.actualizado;
 document.getElementById("fuente").href = D.fuente;
@@ -133,9 +141,18 @@ document.querySelectorAll(".filtro").forEach(b => b.addEventListener("click", ()
 }));
 document.getElementById("busca").addEventListener("input", pinta);
 
-function etapa(nombre, iso){
-  const clase = iso ? (esFutura(iso) ? "futura" : "hecha") : "pend";
-  return `<div class="etapa ${clase}"><small>${nombre}</small><b>${iso ? fmt(iso) : "pendiente"}</b></div>`;
+function etapa(nombre, acta, prog, hora){
+  // Prioridad: acta publicada > fecha programada del PDF > pendiente
+  if(acta){
+    const clase = esFutura(acta) ? "futura" : "hecha";
+    return `<div class="etapa ${clase}"><small>${nombre}</small><b>${fmt(acta)}</b></div>`;
+  }
+  if(prog){
+    const clase = esFutura(prog) ? "prog" : "prog";
+    const h = hora ? `<span class="hora">${hora} h</span>` : "";
+    return `<div class="etapa ${clase}"><small>${nombre}</small><b>${fmt(prog)}</b>${h}</div>`;
+  }
+  return `<div class="etapa pend"><small>${nombre}</small><b>pendiente</b></div>`;
 }
 
 function pinta(){
@@ -152,21 +169,22 @@ function pinta(){
     if(filtros.proximas && !tieneProxima(l)) return "";
     if(filtros.sinfallo && l.fallo) return "";
     visibles++;
-    const folio = l.url_pdf
-      ? `<a href="${l.url_pdf}" target="_blank" rel="noopener">${l.numero}</a>`
-      : l.numero;
+    const btn = l.url_pdf
+      ? `<div class="acciones"><a class="btn-pdf" href="${l.url_pdf}" target="_blank" rel="noopener">Ver convocatoria (PDF)</a></div>`
+      : "";
     return `<article class="card${esNueva(l)?" nueva":""}">
       <div class="fila-sup">
-        <span class="folio">${folio}</span>
+        <span class="folio">${l.numero}</span>
         ${esNueva(l)?'<span class="badge">Nueva</span>':""}
       </div>
-      <div class="conv">Convocatoria ${l.convocatoria||"—"} · publicada ${fmt(l.fecha_publicacion)||l.fecha_publicacion||"—"}</div>
+      <div class="conv">Convocatoria ${l.convocatoria||"—"} · publicada ${fmt(l.fecha_publicacion)||"—"}</div>
       <p class="objeto ${l.objeto?"":"sin"}">${l.objeto||"Objeto en el PDF de la convocatoria"}</p>
       <div class="riel">
-        ${etapa("Junta", l.junta_aclaraciones)}
-        ${etapa("Apertura", l.apertura)}
-        ${etapa("Fallo", l.fallo)}
+        ${etapa("Junta", l.junta_aclaraciones, l.junta_prog, l.junta_hora)}
+        ${etapa("Apertura", l.apertura, l.apertura_prog, l.apertura_hora)}
+        ${etapa("Fallo", l.fallo, l.fallo_prog, l.fallo_hora)}
       </div>
+      ${btn}
     </article>`;
   }).join("");
 
