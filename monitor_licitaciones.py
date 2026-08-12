@@ -48,6 +48,16 @@ RE_CONVOCATORIA = re.compile(r"^CONVOCATORIA\s*-\s*(\d+)\s*\|\s*(.+)$", re.I)
 RE_EVENTO = re.compile(r"^(Junta de Aclaraciones|Apertura de Proposiciones|Fallo|Diferimiento de Fallo)\b.*?\|\s*(.+)$", re.I)
 RE_POSTBACK = re.compile(r"__doPostBack\('([^']*)'\s*,\s*'([^']*)'\)")
 
+# Frase fija del párrafo de "1. Condiciones Generales": "...para la adquisición
+# de <objeto>, solicitados por <solicitante>, conforme a la siguiente
+# Convocatoria...". El "." en vez de la vocal acentuada tolera el carácter de
+# reemplazo (�) que deja pdfplumber cuando el PDF trae una fuente con
+# codificación rota para acentos y eñes.
+RE_OBJETO_SOLICITANTE = re.compile(
+    r"para\s+la\s+(?:adquisici.n|contrataci.n|arrendamiento|prestaci.n\s+del?\s+servicios?)\s+de\s+"
+    r"(.+?),?\s*solicitad[oa]s?\s+por\s+(.+?),?\s*conforme\s+a\s+la\s+siguiente",
+    re.I | re.S)
+
 S = requests.Session()
 S.headers.update({"User-Agent": "Mozilla/5.0 (monitor-licitaciones; uso personal)"})
 VERIFY = True
@@ -129,7 +139,7 @@ def parsear_licitaciones(nodos):
                 "fecha_publicacion": f.isoformat() if f else m.group(2).strip(),
                 "junta_aclaraciones": None, "apertura": None, "fallo": None,
                 "junta_prog": None, "apertura_prog": None, "fallo_prog": None,
-                "url_pdf": None, "objeto": None, "href_nodo": href,
+                "url_pdf": None, "objeto": None, "solicitante": None, "href_nodo": href,
             })
             if href and not licitaciones[numero]["href_nodo"]:
                 licitaciones[numero]["href_nodo"] = href
@@ -269,12 +279,14 @@ def analizar_pdf(contenido):
     res["fallo_prog"], res["fallo_hora"] = _fecha_cerca(
         norm, texto, [r"plazo\s+y\s+lugar\s+para\s+el\s+fallo"])
 
-    m = re.search(r"(?:relativa?\s+a\s+l?a?\s+|objeto[:\s]+|contratacion\s+de\s+|adquisicion\s+de\s+|servicio\s+de\s+|arrendamiento\s+de\s+)", norm)
+    # "1. Condiciones Generales" siempre trae la frase "...convoca a las
+    # personas físicas y morales... para la adquisición/contratación/
+    # arrendamiento de <objeto>, solicitados por <solicitante>, conforme a la
+    # siguiente Convocatoria...". De ahí sacamos ambos datos de una sola vez.
+    m = RE_OBJETO_SOLICITANTE.search(norm)
     if m:
-        inicio = m.start()
-        frag = texto[inicio: inicio + 320]
-        frag = re.split(r"[\n]|(?<=\.)\s", frag, 1)[0]
-        res["objeto"] = " ".join(frag.split())[:300]
+        res["objeto"] = " ".join(texto[m.start(1):m.end(1)].split())[:300]
+        res["solicitante"] = " ".join(texto[m.start(2):m.end(2)].split())[:300]
     return res
 
 
@@ -298,7 +310,7 @@ def guardar_excel(licitaciones):
     filas = sorted(licitaciones.values(), key=lambda x: x["numero"])
     cols = ["numero","convocatoria","fecha_publicacion","junta_prog","junta_hora",
             "apertura_prog","apertura_hora","fallo_prog","fallo_hora",
-            "junta_aclaraciones","apertura","fallo","objeto","url_pdf"]
+            "junta_aclaraciones","apertura","fallo","objeto","solicitante","url_pdf"]
     df = pd.DataFrame(filas)
     for c in cols:
         if c not in df.columns:
@@ -306,7 +318,7 @@ def guardar_excel(licitaciones):
     df = df[cols]
     df.columns = ["No. Licitación","Convocatoria","Publicada","Junta (prog.)","Hora",
                   "Apertura (prog.)","Hora","Fallo (prog.)","Hora",
-                  "Acta Junta","Acta Apertura","Acta Fallo","Objeto","PDF"]
+                  "Acta Junta","Acta Apertura","Acta Fallo","Objeto","Solicitante","PDF"]
     DATA_DIR.mkdir(exist_ok=True)
     df.to_excel(EXCEL_PATH, index=False)
     print(f"Excel actualizado: {EXCEL_PATH} ({len(df)} licitaciones)")
@@ -362,7 +374,7 @@ def main():
             lic["intentos_pdf"] = 0
             nuevas.append(lic)
         else:
-            for campo in ("fecha_detectada","objeto","url_pdf","junta_prog","junta_hora",
+            for campo in ("fecha_detectada","objeto","solicitante","url_pdf","junta_prog","junta_hora",
                           "apertura_prog","apertura_hora","fallo_prog","fallo_hora","intentos_pdf"):
                 if previa.get(campo) is not None and lic.get(campo) is None:
                     lic[campo] = previa[campo]
@@ -394,7 +406,7 @@ def main():
         (PDF_DIR / nombre).write_bytes(contenido)
         lic["url_pdf"] = f"pdfs/{nombre}"
         datos = analizar_pdf(contenido)
-        for k in ("objeto","junta_prog","junta_hora","apertura_prog","apertura_hora","fallo_prog","fallo_hora"):
+        for k in ("objeto","solicitante","junta_prog","junta_hora","apertura_prog","apertura_hora","fallo_prog","fallo_hora"):
             if datos.get(k):
                 lic[k] = datos[k]
         procesadas += 1

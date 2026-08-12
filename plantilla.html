@@ -46,6 +46,7 @@
   .conv{font-size:12px;color:var(--tinta2)}
   .objeto{font-size:13.5px;min-height:1.2em}
   .objeto.sin{color:var(--tinta2);font-style:italic}
+  .solicitante{font-size:12px;color:var(--tinta2)}
 
   .riel{display:grid;grid-template-columns:1fr 1fr 1fr;margin-top:2px;border-top:1px dashed var(--linea);padding-top:10px}
   .etapa{position:relative;padding-left:16px}
@@ -163,7 +164,7 @@ function pinta(){
   const html = D.licitaciones.map(l => {
     if(esNueva(l)) nuevas++;
     if(tieneProxima(l)) prox++;
-    const texto = `${l.numero} ${l.objeto||""} conv ${l.convocatoria||""}`.toLowerCase();
+    const texto = `${l.numero} ${l.objeto||""} ${l.solicitante||""} conv ${l.convocatoria||""}`.toLowerCase();
     if(q && !texto.includes(q)) return "";
     if(filtros.nuevas && !esNueva(l)) return "";
     if(filtros.proximas && !tieneProxima(l)) return "";
@@ -179,6 +180,7 @@ function pinta(){
       </div>
       <div class="conv">Convocatoria ${l.convocatoria||"—"} · publicada ${fmt(l.fecha_publicacion)||"—"}</div>
       <p class="objeto ${l.objeto?"":"sin"}">${l.objeto||"Objeto en el PDF de la convocatoria"}</p>
+      ${l.solicitante?`<p class="solicitante">Solicita: ${l.solicitante}</p>`:""}
       <div class="riel">
         ${etapa("Junta", l.junta_aclaraciones, l.junta_prog, l.junta_hora)}
         ${etapa("Apertura", l.apertura, l.apertura_prog, l.apertura_hora)}
