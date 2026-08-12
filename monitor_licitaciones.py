@@ -351,6 +351,10 @@ def main():
             candidatas_pdf.append(lic)
         vistas[numero] = lic
 
+    # Priorizar las licitaciones más recientes primero, ya que el tope por
+    # corrida (MAX_PDFS_POR_CORRIDA) puede dejar candidatas sin procesar.
+    candidatas_pdf.sort(key=lambda l: (l.get("fecha_publicacion") or "", l["numero"]), reverse=True)
+
     # Descargar y analizar PDFs (con tope por corrida)
     PDF_DIR.mkdir(parents=True, exist_ok=True)
     procesadas = 0
