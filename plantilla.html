@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Licitaciones Hidalgo — Tablero de seguimiento</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;800&family=Spline+Sans+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --tinta:#23212B; --tinta2:#5C5A66; --fondo:#EDEFF2; --panel:#FFFFFF;
+    --guinda:#7B1E3C; --guinda-suave:#F6E9EE; --oro:#A87B2F; --verde:#24734F;
+    --linea:#DDE0E6; --radio:10px;
+    --mono:'Spline Sans Mono',ui-monospace,monospace;
+    --sans:'Libre Franklin',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;line-height:1.45}
+
+  /* Banda institucional */
+  header{background:var(--guinda);color:#fff;padding:22px 20px 18px}
+  .cabecera{max-width:1060px;margin:0 auto;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;justify-content:space-between}
+  .titulo h1{font-size:clamp(20px,3.5vw,27px);font-weight:800;letter-spacing:-.01em}
+  .titulo p{opacity:.85;font-size:13px;margin-top:3px}
+  .conteos{display:flex;gap:22px;font-family:var(--mono)}
+  .conteos div{text-align:right}
+  .conteos b{display:block;font-size:22px;font-weight:600}
+  .conteos span{font-size:11px;opacity:.8;font-family:var(--sans)}
+
+  /* Controles */
+  .controles{position:sticky;top:0;z-index:5;background:var(--fondo);border-bottom:1px solid var(--linea);padding:12px 20px}
+  .controles-int{max-width:1060px;margin:0 auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+  #busca{flex:1;min-width:220px;padding:10px 14px;border:1px solid var(--linea);border-radius:var(--radio);font:inherit;background:var(--panel)}
+  #busca:focus{outline:2px solid var(--guinda);outline-offset:1px}
+  .filtro{border:1px solid var(--linea);background:var(--panel);border-radius:999px;padding:8px 14px;font:inherit;font-size:13px;cursor:pointer;color:var(--tinta2)}
+  .filtro[aria-pressed="true"]{background:var(--guinda);border-color:var(--guinda);color:#fff}
+  .filtro:focus-visible{outline:2px solid var(--guinda);outline-offset:2px}
+
+  main{max-width:1060px;margin:18px auto 60px;padding:0 20px}
+  #vacio{display:none;text-align:center;color:var(--tinta2);padding:60px 0}
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}
+
+  /* Tarjeta */
+  .card{background:var(--panel);border:1px solid var(--linea);border-radius:var(--radio);padding:16px 16px 14px;display:flex;flex-direction:column;gap:10px}
+  .card.nueva{border-color:var(--oro);box-shadow:0 0 0 1px var(--oro)}
+  .fila-sup{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+  .folio{font-family:var(--mono);font-weight:600;font-size:14px;letter-spacing:.01em}
+  .folio a{color:var(--guinda);text-decoration:none}
+  .folio a:hover{text-decoration:underline}
+  .badge{font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--oro);border:1px solid var(--oro);border-radius:4px;padding:2px 6px;white-space:nowrap}
+  .conv{font-size:12px;color:var(--tinta2)}
+  .objeto{font-size:13.5px;min-height:1.2em}
+  .objeto.sin{color:var(--tinta2);font-style:italic}
+
+  /* Riel de etapas: Junta -> Apertura -> Fallo */
+  .riel{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;margin-top:2px;border-top:1px dashed var(--linea);padding-top:10px}
+  .etapa{position:relative;padding-left:16px}
+  .etapa::before{content:"";position:absolute;left:0;top:5px;width:9px;height:9px;border-radius:50%;border:2px solid var(--linea);background:var(--panel)}
+  .etapa.hecha::before{background:var(--guinda);border-color:var(--guinda)}
+  .etapa.futura::before{border-color:var(--verde);background:var(--panel)}
+  .etapa:not(:first-child)::after{content:"";position:absolute;left:-100%;top:9px;width:calc(100% - 14px);margin-left:14px;border-top:2px solid var(--linea)}
+  .etapa.hecha:not(:first-child)::after{border-color:var(--guinda)}
+  .etapa small{display:block;font-size:10px;letter-spacing:.05em;text-transform:uppercase;color:var(--tinta2)}
+  .etapa b{font-family:var(--mono);font-size:12.5px;font-weight:500}
+  .etapa.pend b{color:var(--tinta2);font-weight:400}
+  .etapa.futura b{color:var(--verde);font-weight:600}
+
+  footer{max-width:1060px;margin:0 auto;padding:0 20px 40px;font-size:12px;color:var(--tinta2)}
+  footer a{color:var(--guinda)}
+  @media (prefers-reduced-motion:no-preference){
+    .card{animation:aparece .25s ease both}
+    @keyframes aparece{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="cabecera">
+    <div class="titulo">
+      <h1>Licitaciones · Hidalgo</h1>
+      <p>e-Oficialía Mayor — actualizado <span id="act"></span></p>
+    </div>
+    <div class="conteos">
+      <div><b id="c-total">0</b><span>en el año</span></div>
+      <div><b id="c-nuevas">0</b><span>nuevas</span></div>
+      <div><b id="c-prox">0</b><span>con fecha próxima</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="controles">
+  <div class="controles-int">
+    <input id="busca" type="search" placeholder="Buscar por número, objeto o convocatoria…" aria-label="Buscar licitaciones">
+    <button class="filtro" data-f="nuevas" aria-pressed="false">Solo nuevas</button>
+    <button class="filtro" data-f="proximas" aria-pressed="false">Fechas próximas</button>
+    <button class="filtro" data-f="sinfallo" aria-pressed="false">Sin fallo aún</button>
+  </div>
+</div>
+
+<main>
+  <div class="grid" id="lista"></div>
+  <p id="vacio">Ninguna licitación coincide con tu búsqueda.</p>
+</main>
+
+<footer>
+  Las fechas corresponden a la publicación de cada acta en el portal oficial; las fechas programadas con hora exacta
+  están en el PDF de cada convocatoria. Fuente: <a id="fuente" href="#" target="_blank" rel="noopener">e-Oficialía Hidalgo</a>.
+</footer>
+
+<script>
+const D = __DATOS__;
+const HOY = D.hoy;
+const MS_DIA = 86400000;
+const fmt = iso => {
+  if(!iso) return null;
+  const [a,m,d] = iso.split("-");
+  const meses = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+  return `${+d} ${meses[+m-1]} ${a.slice(2)}`;
+};
+const esNueva = l => l.fecha_detectada &&
+  (new Date(HOY) - new Date(l.fecha_detectada)) / MS_DIA < D.dias_nueva;
+const esFutura = iso => iso && iso >= HOY;
+const tieneProxima = l => [l.junta_aclaraciones, l.apertura, l.fallo].some(esFutura);
+
+document.getElementById("act").textContent = D.actualizado;
+document.getElementById("fuente").href = D.fuente;
+
+const filtros = { nuevas:false, proximas:false, sinfallo:false };
+document.querySelectorAll(".filtro").forEach(b => b.addEventListener("click", () => {
+  filtros[b.dataset.f] = !filtros[b.dataset.f];
+  b.setAttribute("aria-pressed", filtros[b.dataset.f]);
+  pinta();
+}));
+document.getElementById("busca").addEventListener("input", pinta);
+
+function etapa(nombre, iso){
+  const clase = iso ? (esFutura(iso) ? "futura" : "hecha") : "pend";
+  return `<div class="etapa ${clase}"><small>${nombre}</small><b>${iso ? fmt(iso) : "pendiente"}</b></div>`;
+}
+
+function pinta(){
+  const q = document.getElementById("busca").value.trim().toLowerCase();
+  const lista = document.getElementById("lista");
+  let visibles = 0, nuevas = 0, prox = 0;
+
+  const html = D.licitaciones.map(l => {
+    if(esNueva(l)) nuevas++;
+    if(tieneProxima(l)) prox++;
+    const texto = `${l.numero} ${l.objeto||""} conv ${l.convocatoria||""}`.toLowerCase();
+    if(q && !texto.includes(q)) return "";
+    if(filtros.nuevas && !esNueva(l)) return "";
+    if(filtros.proximas && !tieneProxima(l)) return "";
+    if(filtros.sinfallo && l.fallo) return "";
+    visibles++;
+    const folio = l.url_pdf
+      ? `<a href="${l.url_pdf}" target="_blank" rel="noopener">${l.numero}</a>`
+      : l.numero;
+    return `<article class="card${esNueva(l)?" nueva":""}">
+      <div class="fila-sup">
+        <span class="folio">${folio}</span>
+        ${esNueva(l)?'<span class="badge">Nueva</span>':""}
+      </div>
+      <div class="conv">Convocatoria ${l.convocatoria||"—"} · publicada ${fmt(l.fecha_publicacion)||l.fecha_publicacion||"—"}</div>
+      <p class="objeto ${l.objeto?"":"sin"}">${l.objeto||"Objeto en el PDF de la convocatoria"}</p>
+      <div class="riel">
+        ${etapa("Junta", l.junta_aclaraciones)}
+        ${etapa("Apertura", l.apertura)}
+        ${etapa("Fallo", l.fallo)}
+      </div>
+    </article>`;
+  }).join("");
+
+  lista.innerHTML = html;
+  document.getElementById("vacio").style.display = visibles ? "none" : "block";
+  document.getElementById("c-total").textContent = D.licitaciones.length;
+  document.getElementById("c-nuevas").textContent = nuevas;
+  document.getElementById("c-prox").textContent = prox;
+}
+pinta();
+</script>
+</body>
+</html>
