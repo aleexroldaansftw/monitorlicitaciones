@@ -6199,14 +6199,15 @@
       "junta_aclaraciones": "2026-07-31",
       "apertura": "2026-08-04",
       "fallo": "2026-08-05",
-      "junta_prog": null,
+      "junta_prog": "2026-07-29",
       "apertura_prog": null,
       "fallo_prog": null,
-      "url_pdf": null,
-      "objeto": null,
-      "solicitante": null,
+      "url_pdf": "pdfs/EA-913003989-N0388-2026.pdf",
+      "objeto": "Bienes Informáticos, Equipos y Aparatos de Comunicación y Telecomunicación, Licencias Informáticas e Intelectuales",
+      "solicitante": "la Subsecretaría del Centro de Control, Comando, Comunicaciones, Cómputo, Coordinación e Inteligencia C5i de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-24",
-      "intentos_pdf": 2
+      "intentos_pdf": 3,
+      "junta_hora": "15:30"
     },
     "EA-913003989-N0389-2026": {
       "numero": "EA-913003989-N0389-2026",
@@ -6215,14 +6216,16 @@
       "junta_aclaraciones": "2026-07-29",
       "apertura": "2026-08-03",
       "fallo": "2026-08-05",
-      "junta_prog": null,
-      "apertura_prog": null,
+      "junta_prog": "2026-07-29",
+      "apertura_prog": "2026-08-03",
       "fallo_prog": null,
-      "url_pdf": null,
-      "objeto": null,
-      "solicitante": null,
+      "url_pdf": "pdfs/EA-913003989-N0389-2026.pdf",
+      "objeto": "Asignación de Combustible Mediante Monederos Electrónicos",
+      "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-24",
-      "intentos_pdf": 2
+      "intentos_pdf": 3,
+      "junta_hora": "16:00",
+      "apertura_hora": "12:30"
     },
     "EA-913003989-N0390-2026": {
       "numero": "EA-913003989-N0390-2026",
@@ -6231,14 +6234,16 @@
       "junta_aclaraciones": "2026-07-31",
       "apertura": null,
       "fallo": null,
-      "junta_prog": null,
-      "apertura_prog": null,
+      "junta_prog": "2026-07-30",
+      "apertura_prog": "2026-08-04",
       "fallo_prog": null,
-      "url_pdf": null,
-      "objeto": null,
-      "solicitante": null,
+      "url_pdf": "pdfs/EA-913003989-N0390-2026.pdf",
+      "objeto": "Vehículos y Equipo Terrestre",
+      "solicitante": "la Dirección General de Recursos Materiales de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo en conjunto con la Secretaría de Seguridad Pública del Estado de Hidalgo",
       "fecha_detectada": "2026-07-27",
-      "intentos_pdf": 2
+      "intentos_pdf": 3,
+      "junta_hora": "11:30",
+      "apertura_hora": "12:00"
     },
     "EA-913003989-N0391-2026": {
       "numero": "EA-913003989-N0391-2026",
@@ -6247,14 +6252,16 @@
       "junta_aclaraciones": "2026-07-30",
       "apertura": "2026-08-04",
       "fallo": "2026-08-10",
-      "junta_prog": null,
-      "apertura_prog": null,
+      "junta_prog": "2026-07-30",
+      "apertura_prog": "2026-08-04",
       "fallo_prog": null,
-      "url_pdf": null,
-      "objeto": null,
-      "solicitante": null,
+      "url_pdf": "pdfs/EA-913003989-N0391-2026.pdf",
+      "objeto": "Asignación de Combustible Mediante Monederos Electrónicos",
+      "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-27",
-      "intentos_pdf": 2
+      "intentos_pdf": 3,
+      "junta_hora": "15:00",
+      "apertura_hora": "12:30"
     },
     "EA-913003989-N0392-2026": {
       "numero": "EA-913003989-N0392-2026",
@@ -6270,9 +6277,9 @@
       "objeto": "Servicio global para realización de evento del Día del bombero (Segundo Procedimiento)",
       "solicitante": "la Dirección General de Administración de Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo en conjunto con la Secretaría de Seguridad Pública del Estado de Hidalgo",
       "fecha_detectada": "2026-07-27",
-      "intentos_pdf": 3,
       "junta_hora": "15:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0393-2026": {
       "numero": "EA-913003989-N0393-2026",
@@ -6288,9 +6295,9 @@
       "objeto": "Servicio global para realización de evento del Día del Policía (Segundo Procedimiento)",
       "solicitante": "la Dirección General de Administración de Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo en conjunto con la Secretaría de Seguridad Pública del Estado de Hidalgo",
       "fecha_detectada": "2026-07-27",
-      "intentos_pdf": 3,
       "junta_hora": "16:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0394-2026": {
       "numero": "EA-913003989-N0394-2026",
@@ -6306,9 +6313,9 @@
       "objeto": "Refacciones y Accesorios Menores de Maquinaria y Otros Equipos",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "14:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0395-2026": {
       "numero": "EA-913003989-N0395-2026",
@@ -6324,9 +6331,9 @@
       "objeto": "Materiales, Accesorios y Suministros de Laboratorio",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "14:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0396-2026": {
       "numero": "EA-913003989-N0396-2026",
@@ -6342,9 +6349,9 @@
       "objeto": "Instalación, Reparación y Mantenimiento de Equipo e Instrumental Médico y de Laboratorio",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "15:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0397-2026": {
       "numero": "EA-913003989-N0397-2026",
@@ -6360,9 +6367,9 @@
       "objeto": "Sustancias Químicas",
       "solicitante": "la Dirección General de Gestión de Calidad del Aire, de la Secretaría de Medio Ambiente y Recursos Naturales del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "15:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0398-2026": {
       "numero": "EA-913003989-N0398-2026",
@@ -6378,9 +6385,9 @@
       "objeto": "Mantenimiento de Maquinaria y Equipo",
       "solicitante": "la Dirección General de Cuencas y Planeación Hídrica, de la Secretaría de Medio Ambiente y Recursos Naturales del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "16:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0399-2026": {
       "numero": "EA-913003989-N0399-2026",
@@ -6396,9 +6403,9 @@
       "objeto": "Productos Alimenticios",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-28",
-      "intentos_pdf": 3,
       "junta_hora": "16:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0400-2026": {
       "numero": "EA-913003989-N0400-2026",
@@ -6414,9 +6421,9 @@
       "objeto": "Equipo Médico y de Laboratorio (Electromiógrafo)",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "13:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0401-2026": {
       "numero": "EA-913003989-N0401-2026",
@@ -6432,9 +6439,9 @@
       "objeto": "Equipo de Administración",
       "solicitante": "la Junta General de Asistencia del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "13:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0402-2026": {
       "numero": "EA-913003989-N0402-2026",
@@ -6450,9 +6457,9 @@
       "objeto": "Medicinas y Productos Farmacéuticos",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "14:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0403-2026": {
       "numero": "EA-913003989-N0403-2026",
@@ -6468,9 +6475,9 @@
       "objeto": "Instrumental Médico y de Laboratorio",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "14:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0404-2026": {
       "numero": "EA-913003989-N0404-2026",
@@ -6486,9 +6493,9 @@
       "objeto": "Ayudas Sociales a Personas",
       "solicitante": "la Dirección de Alimentación y Desarrollo Comunitario del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, en coordinación con el Almacén General de Pachuca",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "15:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0405-2026": {
       "numero": "EA-913003989-N0405-2026",
@@ -6504,9 +6511,9 @@
       "objeto": "Equipo Médico y de Laboratorio",
       "solicitante": "el Centro de Rehabilitación Integral Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "15:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0406-2026": {
       "numero": "EA-913003989-N0406-2026",
@@ -6522,9 +6529,9 @@
       "objeto": "Bienes Informáticos (Segundo Procedimiento)",
       "solicitante": "la Universidad Tecnológica de Tulancingo",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "16:00",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0407-2026": {
       "numero": "EA-913003989-N0407-2026",
@@ -6558,9 +6565,9 @@
       "objeto": "Servicio Global (\"Día Internacional de los Pueblos Indígenas\")",
       "solicitante": "la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas",
       "fecha_detectada": "2026-07-29",
-      "intentos_pdf": 3,
       "junta_hora": "12:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0409-2026": {
       "numero": "EA-913003989-N0409-2026",
@@ -6576,9 +6583,9 @@
       "objeto": "Asignación de apoyos económicos a través de monederos electrónicos",
       "solicitante": "la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas",
       "fecha_detectada": "2026-07-30",
-      "intentos_pdf": 3,
       "junta_hora": "15:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0410-2026": {
       "numero": "EA-913003989-N0410-2026",
@@ -6594,9 +6601,9 @@
       "objeto": "Asignación de apoyos económicos a través de monederos electrónicos",
       "solicitante": "el Instituto Hidalguense de las Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-07-30",
-      "intentos_pdf": 3,
       "junta_hora": "15:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0411-2026": {
       "numero": "EA-913003989-N0411-2026",
@@ -6612,9 +6619,9 @@
       "objeto": "Mobiliario para los Laboratorios STEM",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-07-31",
-      "intentos_pdf": 3,
       "junta_hora": "16:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0412-2026": {
       "numero": "EA-913003989-N0412-2026",
@@ -6630,9 +6637,9 @@
       "objeto": "Prendas de Seguridad y Protección Personal",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-31",
-      "intentos_pdf": 3,
       "junta_hora": "12:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0413-2026": {
       "numero": "EA-913003989-N0413-2026",
@@ -6648,9 +6655,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-07-31",
-      "intentos_pdf": 3,
       "junta_hora": "12:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0414-2026": {
       "numero": "EA-913003989-N0414-2026",
@@ -6666,17 +6673,17 @@
       "objeto": "Artículos Metálicos para la Construcción",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-07-31",
-      "intentos_pdf": 3,
       "junta_hora": "16:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0415-2026": {
       "numero": "EA-913003989-N0415-2026",
       "convocatoria": "104",
       "fecha_publicacion": "2026-08-03",
       "junta_aclaraciones": "2026-08-06",
-      "apertura": "2026-08-11",
-      "fallo": null,
+      "apertura": "2026-08-12",
+      "fallo": "2026-08-12",
       "junta_prog": "2026-08-06",
       "apertura_prog": "2026-08-11",
       "fallo_prog": null,
@@ -6684,9 +6691,9 @@
       "objeto": "Libros de Texto",
       "solicitante": "el Colegio de Bachilleres del Estado de Hidalgo, el Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo, el Colegio de Educación Profesional Técnica del Estado de Hidalgo y por el Bachillerato del Estado de Hidalgo",
       "fecha_detectada": "2026-08-03",
-      "intentos_pdf": 3,
       "junta_hora": "16:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0416-2026": {
       "numero": "EA-913003989-N0416-2026",
@@ -6694,7 +6701,7 @@
       "fecha_publicacion": "2026-08-03",
       "junta_aclaraciones": "2026-08-06",
       "apertura": "2026-08-11",
-      "fallo": null,
+      "fallo": "2026-08-12",
       "junta_prog": "2026-08-06",
       "apertura_prog": "2026-08-11",
       "fallo_prog": null,
@@ -6702,9 +6709,9 @@
       "objeto": "Mantenimiento de Vehículos",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-03",
-      "intentos_pdf": 3,
       "junta_hora": "11:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0417-2026": {
       "numero": "EA-913003989-N0417-2026",
@@ -6712,7 +6719,7 @@
       "fecha_publicacion": "2026-08-03",
       "junta_aclaraciones": "2026-08-06",
       "apertura": "2026-08-11",
-      "fallo": null,
+      "fallo": "2026-08-12",
       "junta_prog": "2026-08-06",
       "apertura_prog": "2026-08-11",
       "fallo_prog": null,
@@ -6720,9 +6727,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-03",
-      "intentos_pdf": 3,
       "junta_hora": "10:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0418-2026": {
       "numero": "EA-913003989-N0418-2026",
@@ -6730,7 +6737,7 @@
       "fecha_publicacion": "2026-08-03",
       "junta_aclaraciones": "2026-08-06",
       "apertura": "2026-08-11",
-      "fallo": null,
+      "fallo": "2026-08-12",
       "junta_prog": "2026-08-06",
       "apertura_prog": "2026-08-11",
       "fallo_prog": null,
@@ -6738,9 +6745,9 @@
       "objeto": "Muebles, Excepto De Oficina y Estantería",
       "solicitante": "la Dirección General de Prevención y Reinserción Social de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-03",
-      "intentos_pdf": 3,
       "junta_hora": "11:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0419-2026": {
       "numero": "EA-913003989-N0419-2026",
@@ -6756,16 +6763,16 @@
       "objeto": "Servicio global para realización de eventos",
       "solicitante": "la Dirección General de Administración de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-03",
-      "intentos_pdf": 3,
       "junta_hora": "11:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0420-2026": {
       "numero": "EA-913003989-N0420-2026",
       "convocatoria": "105",
       "fecha_publicacion": "2026-08-04",
       "junta_aclaraciones": "2026-08-07",
-      "apertura": null,
+      "apertura": "2026-08-12",
       "fallo": null,
       "junta_prog": "2026-08-07",
       "apertura_prog": "2026-08-12",
@@ -6774,16 +6781,16 @@
       "objeto": "Servicios de Telecomunicaciones",
       "solicitante": "la Dirección General de Prevención y Reinserción Social de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-04",
-      "intentos_pdf": 3,
       "junta_hora": "14:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0421-2026": {
       "numero": "EA-913003989-N0421-2026",
       "convocatoria": "105",
       "fecha_publicacion": "2026-08-04",
       "junta_aclaraciones": "2026-08-07",
-      "apertura": null,
+      "apertura": "2026-08-12",
       "fallo": null,
       "junta_prog": "2026-08-07",
       "apertura_prog": "2026-08-12",
@@ -6792,16 +6799,16 @@
       "objeto": "Refacciones para Vehículos y Equipos de Transporte",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-04",
-      "intentos_pdf": 3,
       "junta_hora": "14:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0422-2026": {
       "numero": "EA-913003989-N0422-2026",
       "convocatoria": "105",
       "fecha_publicacion": "2026-08-04",
       "junta_aclaraciones": "2026-08-07",
-      "apertura": null,
+      "apertura": "2026-08-12",
       "fallo": null,
       "junta_prog": "2026-08-07",
       "apertura_prog": "2026-08-12",
@@ -6810,16 +6817,16 @@
       "objeto": "Material Eléctrico",
       "solicitante": "la Universidad Tecnológica Tula Tepeji",
       "fecha_detectada": "2026-08-04",
-      "intentos_pdf": 3,
       "junta_hora": "15:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 3
     },
     "EA-913003989-N0423-2026": {
       "numero": "EA-913003989-N0423-2026",
       "convocatoria": "105",
       "fecha_publicacion": "2026-08-04",
       "junta_aclaraciones": "2026-08-07",
-      "apertura": null,
+      "apertura": "2026-08-12",
       "fallo": null,
       "junta_prog": "2026-08-07",
       "apertura_prog": "2026-08-12",
@@ -6836,7 +6843,7 @@
       "numero": "EA-913003989-N0424-2026",
       "convocatoria": "105",
       "fecha_publicacion": "2026-08-04",
-      "junta_aclaraciones": "2026-08-07",
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-07",
@@ -7087,7 +7094,7 @@
       "numero": "EA-913003989-N0438-2026",
       "convocatoria": "108",
       "fecha_publicacion": "2026-08-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7105,7 +7112,7 @@
       "numero": "EA-913003989-N0439-2026",
       "convocatoria": "108",
       "fecha_publicacion": "2026-08-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7123,7 +7130,7 @@
       "numero": "EA-913003989-N0440-2026",
       "convocatoria": "108",
       "fecha_publicacion": "2026-08-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7141,7 +7148,7 @@
       "numero": "EA-913003989-N0441-2026",
       "convocatoria": "108",
       "fecha_publicacion": "2026-08-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7195,7 +7202,7 @@
       "numero": "EA-913003989-N0444-2026",
       "convocatoria": "109",
       "fecha_publicacion": "2026-08-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7231,7 +7238,7 @@
       "numero": "EA-913003989-N0446-2026",
       "convocatoria": "109",
       "fecha_publicacion": "2026-08-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-12",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-12",
@@ -7334,6 +7341,78 @@
       "junta_hora": "16:00",
       "apertura_hora": "12:30",
       "intentos_pdf": 3
+    },
+    "EA-913003989-N0452-2026": {
+      "numero": "EA-913003989-N0452-2026",
+      "convocatoria": "111",
+      "fecha_publicacion": "2026-08-12",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-08-17",
+      "apertura_prog": "2026-08-20",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0452-2026.pdf",
+      "objeto": "Seguros",
+      "solicitante": "la Universidad Tecnológica de Tulancingo",
+      "fecha_detectada": "2026-08-13",
+      "intentos_pdf": 1,
+      "junta_hora": "15:00",
+      "apertura_hora": "12:00"
+    },
+    "EA-913003989-N0453-2026": {
+      "numero": "EA-913003989-N0453-2026",
+      "convocatoria": "111",
+      "fecha_publicacion": "2026-08-12",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-08-17",
+      "apertura_prog": "2026-08-20",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0453-2026.pdf",
+      "objeto": "Servicio de Creatividad, Diseño, Preproducción, Producción y Postproducción de Publicidad para el fortalecimiento de la Comunicación Institucional",
+      "solicitante": "la Dirección de Comunicación Social de la Secretaría de Desarrollo Económico del Poder Ejecutivo del Estado de Hidalgo y Dirección General de Atención y Vinculación Institucional de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-13",
+      "intentos_pdf": 1,
+      "junta_hora": "15:30",
+      "apertura_hora": "12:30"
+    },
+    "EA-913003989-N0454-2026": {
+      "numero": "EA-913003989-N0454-2026",
+      "convocatoria": "111",
+      "fecha_publicacion": "2026-08-12",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-08-17",
+      "apertura_prog": "2026-08-20",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0454-2026.pdf",
+      "objeto": "Servicio de Rider",
+      "solicitante": "la Dirección General de Administración de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-13",
+      "intentos_pdf": 1,
+      "junta_hora": "16:00",
+      "apertura_hora": "13:00"
+    },
+    "EA-913003989-N0455-2026": {
+      "numero": "EA-913003989-N0455-2026",
+      "convocatoria": "111",
+      "fecha_publicacion": "2026-08-12",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-08-17",
+      "apertura_prog": "2026-08-20",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0455-2026.pdf",
+      "objeto": "Arrendamiento de Maquinaria, Otros Equipos y Herramientas, Arrendamiento de Vehículos y Equipo de Transporte",
+      "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-13",
+      "intentos_pdf": 1,
+      "junta_hora": "16:30",
+      "apertura_hora": "13:30"
     }
   }
 }
