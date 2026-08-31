@@ -7996,7 +7996,7 @@
       "fecha_publicacion": "2026-08-20",
       "junta_aclaraciones": "2026-08-25",
       "apertura": "2026-08-28",
-      "fallo": null,
+      "fallo": "2026-08-28",
       "junta_prog": "2026-08-25",
       "apertura_prog": "2026-08-28",
       "fallo_prog": null,
@@ -8282,7 +8282,7 @@
       "numero": "EA-913003989-N0504-2026",
       "convocatoria": "120",
       "fecha_publicacion": "2026-08-25",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-28",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-28",
@@ -8390,7 +8390,7 @@
       "numero": "EA-913003989-N0510-2026",
       "convocatoria": "121",
       "fecha_publicacion": "2026-08-26",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-08-28",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-08-28",
@@ -8418,9 +8418,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "la Dirección General de Prevención y Reinserción Social de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
-      "intentos_pdf": 1,
       "junta_hora": "11:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0512-2026": {
       "numero": "EA-913003989-N0512-2026",
@@ -8436,9 +8436,9 @@
       "objeto": "Equipos de Generación Eléctrica, Aparatos y Accesorios Eléctricos",
       "solicitante": "la Subsecretaría del Centro de Control, Comando, Comunicaciones, Cómputo, Coordinación e Inteligencia C5i de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0513-2026": {
       "numero": "EA-913003989-N0513-2026",
@@ -8454,9 +8454,9 @@
       "objeto": "Materiales, Accesorios y Suministros Médicos",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0514-2026": {
       "numero": "EA-913003989-N0514-2026",
@@ -8472,9 +8472,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0515-2026": {
       "numero": "EA-913003989-N0515-2026",
@@ -8490,9 +8490,9 @@
       "objeto": "Herramientas Menores",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0516-2026": {
       "numero": "EA-913003989-N0516-2026",
@@ -8508,9 +8508,117 @@
       "objeto": "Conservación y Mantenimiento Menor de Inmuebles",
       "solicitante": "la Dirección General de Servicios Generales de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-08-28",
+      "junta_hora": "16:30",
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
+    },
+    "EA-913003989-N0517-2026": {
+      "numero": "EA-913003989-N0517-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0517-2026.pdf",
+      "objeto": "Materiales, Accesorios Y Suministros Médicos",
+      "solicitante": "la Universidad Politécnica de Pachuca",
+      "fecha_detectada": "2026-08-31",
+      "intentos_pdf": 1,
+      "junta_hora": "15:00",
+      "apertura_hora": "11:00"
+    },
+    "EA-913003989-N0518-2026": {
+      "numero": "EA-913003989-N0518-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0518-2026.pdf",
+      "objeto": "Estudios e Investigaciones (PIMUS de Huejutla de Reyes, PIMUS de Ixmiquilpan)",
+      "solicitante": "la Dirección General de Movilidad Sustentable de la Secretaría de Movilidad y Transporte del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-31",
+      "intentos_pdf": 1,
+      "junta_hora": "15:30",
+      "apertura_hora": "11:30"
+    },
+    "EA-913003989-N0519-2026": {
+      "numero": "EA-913003989-N0519-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0519-2026.pdf",
+      "objeto": "Equipo educativo para el Laboratorio de Innovación Agrícola Sustentable",
+      "solicitante": "la Subdirección de Servicios Administrativos del Instituto Tecnológico Superior de Huichapan",
+      "fecha_detectada": "2026-08-31",
+      "intentos_pdf": 1,
+      "junta_hora": "16:00",
+      "apertura_hora": "12:00"
+    },
+    "EA-913003989-N0520-2026": {
+      "numero": "EA-913003989-N0520-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0520-2026.pdf",
+      "objeto": "Subsidios a la Producción (Vientre Ovino)",
+      "solicitante": "la Dirección General de Ganadería de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-31",
       "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "12:30"
+    },
+    "EA-913003989-N0521-2026": {
+      "numero": "EA-913003989-N0521-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0521-2026.pdf",
+      "objeto": "Mantenimiento de Mobiliario y Equipo de Administración, Educacional y Recreativo, Impresiones y Publicaciones Oficiales",
+      "solicitante": "la Dirección General de Fomento Artesanal de la Secretaría de Bienestar e Inclusión Social, del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-31",
+      "intentos_pdf": 1,
+      "junta_hora": "17:00",
+      "apertura_hora": "13:00"
+    },
+    "EA-913003989-N0522-2026": {
+      "numero": "EA-913003989-N0522-2026",
+      "convocatoria": "123",
+      "fecha_publicacion": "2026-08-28",
+      "junta_aclaraciones": null,
+      "apertura": null,
+      "fallo": null,
+      "junta_prog": "2026-09-02",
+      "apertura_prog": "2026-09-07",
+      "fallo_prog": null,
+      "url_pdf": "pdfs/EA-913003989-N0522-2026.pdf",
+      "objeto": "Otros Arrendamientos",
+      "solicitante": "la Dirección General de Fomento Artesanal de la Secretaría de Bienestar e Inclusión Social, del Poder Ejecutivo del Estado de Hidalgo",
+      "fecha_detectada": "2026-08-31",
+      "intentos_pdf": 1,
+      "junta_hora": "10:00",
+      "apertura_hora": "13:30"
     }
   }
 }
