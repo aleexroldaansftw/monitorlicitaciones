@@ -9066,9 +9066,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "los Centros de Rehabilitación Integral Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-09-07",
-      "intentos_pdf": 1,
       "junta_hora": "11:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0548-2026": {
       "numero": "EA-913003989-N0548-2026",
@@ -9084,9 +9084,9 @@
       "objeto": "Refacciones y Accesorios Menores de Equipo e Instrumental Médico y de Laboratorio",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-09-07",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0549-2026": {
       "numero": "EA-913003989-N0549-2026",
@@ -9102,9 +9102,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Dirección de Informática del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-09-07",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0550-2026": {
       "numero": "EA-913003989-N0550-2026",
@@ -9120,9 +9120,9 @@
       "objeto": "Donativos a Entes Públicos Estatales y Municipales",
       "solicitante": "el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-09-07",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0551-2026": {
       "numero": "EA-913003989-N0551-2026",
@@ -9138,9 +9138,9 @@
       "objeto": "Seguro de Accidentes Escolares",
       "solicitante": "la Universidad Tecnológica de Tula-Tepeji",
       "fecha_detectada": "2026-09-07",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     }
   }
 }
