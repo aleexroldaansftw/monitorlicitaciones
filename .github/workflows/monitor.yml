@@ -2,7 +2,7 @@ name: Monitor de licitaciones Hidalgo
 
 on:
   schedule:
-    - cron: "0 14 * * 1-5"   # L-V 8:00 AM hora del centro de México
+    - cron: "17 14 * * 1-5"   # L-V 8:17 AM hora del centro de México (minuto "raro" para evitar el atasco de cron en punto)
   workflow_dispatch: {}
 
 permissions:
