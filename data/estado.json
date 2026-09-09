@@ -9246,9 +9246,9 @@
       "objeto": "Subsidios a la Producción (Equipo de café) (Segundo Procedimiento)",
       "solicitante": "la Subsecretaria de Desarrollo Agropecuario de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-09",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0558-2026": {
       "numero": "EA-913003989-N0558-2026",
@@ -9264,9 +9264,9 @@
       "objeto": "Refacciones y Accesorios Menores de Equipo de Cómputo y Tecnologías de la Información, Bienes Informáticos, Equipo de Administración",
       "solicitante": "la Universidad Politécnica Metropolitana de Hidalgo",
       "fecha_detectada": "2026-09-09",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0559-2026": {
       "numero": "EA-913003989-N0559-2026",
@@ -9282,9 +9282,9 @@
       "objeto": "Conservación y Mantenimiento Menor de Inmuebles",
       "solicitante": "la Dirección General de Servicios Generales de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-09",
-      "intentos_pdf": 1,
       "junta_hora": "11:00",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0560-2026": {
       "numero": "EA-913003989-N0560-2026",
@@ -9300,9 +9300,9 @@
       "objeto": "Equipamiento Especializado para el Laboratorio de Turismo",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-09-09",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0561-2026": {
       "numero": "EA-913003989-N0561-2026",
@@ -9318,9 +9318,9 @@
       "objeto": "Equipamiento Especializado para el Laboratorio de Ciencias",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-09-09",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     }
   }
 }
