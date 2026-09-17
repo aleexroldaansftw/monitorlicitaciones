@@ -9148,7 +9148,7 @@
       "fecha_publicacion": "2026-09-07",
       "junta_aclaraciones": "2026-09-10",
       "apertura": "2026-09-15",
-      "fallo": null,
+      "fallo": "2026-09-17",
       "junta_prog": "2026-09-10",
       "apertura_prog": "2026-09-15",
       "fallo_prog": null,
@@ -9166,7 +9166,7 @@
       "fecha_publicacion": "2026-09-07",
       "junta_aclaraciones": "2026-09-10",
       "apertura": "2026-09-15",
-      "fallo": null,
+      "fallo": "2026-09-17",
       "junta_prog": "2026-09-10",
       "apertura_prog": "2026-09-15",
       "fallo_prog": null,
@@ -9184,7 +9184,7 @@
       "fecha_publicacion": "2026-09-07",
       "junta_aclaraciones": "2026-09-10",
       "apertura": "2026-09-15",
-      "fallo": null,
+      "fallo": "2026-09-17",
       "junta_prog": "2026-09-10",
       "apertura_prog": "2026-09-15",
       "fallo_prog": null,
@@ -9202,7 +9202,7 @@
       "fecha_publicacion": "2026-09-07",
       "junta_aclaraciones": "2026-09-10",
       "apertura": "2026-09-15",
-      "fallo": null,
+      "fallo": "2026-09-17",
       "junta_prog": "2026-09-10",
       "apertura_prog": "2026-09-15",
       "fallo_prog": null,
@@ -9220,7 +9220,7 @@
       "fecha_publicacion": "2026-09-07",
       "junta_aclaraciones": "2026-09-10",
       "apertura": "2026-09-15",
-      "fallo": null,
+      "fallo": "2026-09-17",
       "junta_prog": "2026-09-10",
       "apertura_prog": "2026-09-15",
       "fallo_prog": null,
@@ -9786,9 +9786,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "la Policía Industrial Bancaria del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "13:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0588-2026": {
       "numero": "EA-913003989-N0588-2026",
@@ -9804,9 +9804,9 @@
       "objeto": "Materiales, Accesorios y Suministros Médicos (Segundo Procedimiento)",
       "solicitante": "el Hospital del Niño DIF Hidalgo del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "14:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0589-2026": {
       "numero": "EA-913003989-N0589-2026",
@@ -9822,9 +9822,9 @@
       "objeto": "Equipo educativo para el Laboratorio de Innovación Agrícola Sustentable (Segundo Procedimiento)",
       "solicitante": "la Subdirección de Servicios Administrativos del Instituto Tecnológico Superior de Huichapan",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0590-2026": {
       "numero": "EA-913003989-N0590-2026",
@@ -9840,9 +9840,9 @@
       "objeto": "Alimentación de Animales (Segundo Procedimiento)",
       "solicitante": "la Dirección General de Ganadería de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0591-2026": {
       "numero": "EA-913003989-N0591-2026",
@@ -9858,9 +9858,9 @@
       "objeto": "Subsidios a la Producción (Vientre Ovino) (Segundo Procedimiento)",
       "solicitante": "la Dirección General de Ganadería de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0592-2026": {
       "numero": "EA-913003989-N0592-2026",
@@ -9876,9 +9876,9 @@
       "objeto": "Servicios Integrales",
       "solicitante": "la Secretaría de Turismo del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "10:30",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0593-2026": {
       "numero": "EA-913003989-N0593-2026",
@@ -9894,9 +9894,9 @@
       "objeto": "Mantenimiento de Maquinaria y Equipo",
       "solicitante": "la Subsecretaria del Centro de Control, Comando, Comunicaciones, Cómputo, Coordinación, e Inteligencia de la Secretaría de Seguridad Pública del Poder Ejecutivo del Gobierno del Estado de Hidalgo",
       "fecha_detectada": "2026-09-16",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     }
   }
 }
