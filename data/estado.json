@@ -9832,7 +9832,7 @@
       "fecha_publicacion": "2026-09-15",
       "junta_aclaraciones": "2026-09-21",
       "apertura": "2026-09-24",
-      "fallo": null,
+      "fallo": "2026-09-28",
       "junta_prog": "2026-09-21",
       "apertura_prog": "2026-09-24",
       "fallo_prog": null,
@@ -9850,7 +9850,7 @@
       "fecha_publicacion": "2026-09-15",
       "junta_aclaraciones": "2026-09-21",
       "apertura": "2026-09-24",
-      "fallo": null,
+      "fallo": "2026-09-28",
       "junta_prog": "2026-09-21",
       "apertura_prog": "2026-09-24",
       "fallo_prog": null,
@@ -9940,7 +9940,7 @@
       "fecha_publicacion": "2026-09-17",
       "junta_aclaraciones": "2026-09-22",
       "apertura": "2026-09-25",
-      "fallo": null,
+      "fallo": "2026-09-28",
       "junta_prog": "2026-09-22",
       "apertura_prog": "2026-09-25",
       "fallo_prog": null,
@@ -9958,7 +9958,7 @@
       "fecha_publicacion": "2026-09-17",
       "junta_aclaraciones": "2026-09-22",
       "apertura": "2026-09-25",
-      "fallo": null,
+      "fallo": "2026-09-28",
       "junta_prog": "2026-09-22",
       "apertura_prog": "2026-09-25",
       "fallo_prog": null,
@@ -9976,7 +9976,7 @@
       "fecha_publicacion": "2026-09-17",
       "junta_aclaraciones": "2026-09-22",
       "apertura": "2026-09-25",
-      "fallo": null,
+      "fallo": "2026-09-28",
       "junta_prog": "2026-09-22",
       "apertura_prog": "2026-09-25",
       "fallo_prog": null,
@@ -10578,9 +10578,9 @@
       "objeto": "Formas Valoradas",
       "solicitante": "el Sistema de Transporte Convencional de Hidalgo",
       "fecha_detectada": "2026-09-28",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0632-2026": {
       "numero": "EA-913003989-N0632-2026",
@@ -10596,9 +10596,9 @@
       "objeto": "Equipamiento de Laboratorio",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-09-28",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0633-2026": {
       "numero": "EA-913003989-N0633-2026",
@@ -10614,9 +10614,9 @@
       "objeto": "Materiales, Útiles y Equipos Menores de Oficina",
       "solicitante": "la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales",
       "fecha_detectada": "2026-09-28",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0634-2026": {
       "numero": "EA-913003989-N0634-2026",
@@ -10632,9 +10632,9 @@
       "objeto": "Fibras Sintéticas, Hules, Plásticos y Derivados",
       "solicitante": "la Dirección General de Ganadería de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-28",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0635-2026": {
       "numero": "EA-913003989-N0635-2026",
@@ -10650,9 +10650,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-09-28",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     }
   }
 }
