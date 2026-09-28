@@ -2,11 +2,16 @@ name: Monitor de licitaciones Hidalgo
 
 on:
   schedule:
-    - cron: "17 14 * * 1-5"   # L-V 8:17 AM hora del centro de México (minuto "raro" para evitar el atasco de cron en punto)
+    - cron: "17 14 * * 1-5"   # Respaldo: L-V 8:17 AM centro de México (GitHub suele retrasarlo). El disparo principal viene de cron-job.org a las 8:00
   workflow_dispatch: {}
 
 permissions:
   contents: write
+
+# Evita que dos corridas (cron-job.org + cron de GitHub) se empalmen y choquen al hacer push
+concurrency:
+  group: monitor
+  cancel-in-progress: false
 
 jobs:
   revisar:
