@@ -8265,8 +8265,8 @@
       "convocatoria": "120",
       "fecha_publicacion": "2026-08-25",
       "junta_aclaraciones": "2026-08-28",
-      "apertura": null,
-      "fallo": null,
+      "apertura": "2026-09-02",
+      "fallo": "2026-09-03",
       "junta_prog": "2026-08-28",
       "apertura_prog": "2026-09-02",
       "fallo_prog": null,
@@ -8912,8 +8912,8 @@
       "numero": "EA-913003989-N0539-2026",
       "convocatoria": "126",
       "fecha_publicacion": "2026-09-02",
-      "junta_aclaraciones": "2026-09-10",
-      "apertura": null,
+      "junta_aclaraciones": "2026-09-07",
+      "apertura": "2026-09-10",
       "fallo": "2026-09-11",
       "junta_prog": "2026-09-07",
       "apertura_prog": "2026-09-10",
@@ -11028,9 +11028,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Universidad Tecnológica de la Sierra Hidalguense",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0657-2026": {
       "numero": "EA-913003989-N0657-2026",
@@ -11046,9 +11046,9 @@
       "objeto": "Equipos y Aparatos Audiovisuales",
       "solicitante": "la Policía Industrial Bancaria del Estado de Hidalgo",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0658-2026": {
       "numero": "EA-913003989-N0658-2026",
@@ -11064,9 +11064,9 @@
       "objeto": "Materiales y Útiles Consumibles para el Procesamiento en Equipos y Bienes Informáticos (Segundo Procedimiento)",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0659-2026": {
       "numero": "EA-913003989-N0659-2026",
@@ -11082,9 +11082,9 @@
       "objeto": "Material Didáctico",
       "solicitante": "la Universidad Tecnológica de Tula-Tepeji",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0660-2026": {
       "numero": "EA-913003989-N0660-2026",
@@ -11100,9 +11100,9 @@
       "objeto": "Utensilios para el Servicio de Alimentación (Segundo Procedimiento)",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0661-2026": {
       "numero": "EA-913003989-N0661-2026",
@@ -11118,9 +11118,9 @@
       "objeto": "Otros Materiales y Artículos de Construcción y Reparación",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-02",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     }
   }
 }
