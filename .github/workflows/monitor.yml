@@ -16,6 +16,8 @@ concurrency:
 jobs:
   revisar:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/Mexico_City   # fechas y "actualizado" del tablero en hora de México
     steps:
       - uses: actions/checkout@v4
 
