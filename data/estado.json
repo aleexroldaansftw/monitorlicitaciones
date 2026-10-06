@@ -11244,9 +11244,9 @@
       "objeto": "Servicios de Apoyo Administrativo, Fotocopiado e Impresión",
       "solicitante": "el Despacho de la Persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0669-2026": {
       "numero": "EA-913003989-N0669-2026",
@@ -11262,9 +11262,9 @@
       "objeto": "Material de Limpieza",
       "solicitante": "el Centro de Justicia para Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0670-2026": {
       "numero": "EA-913003989-N0670-2026",
@@ -11280,9 +11280,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Universidad Tecnológica de Tula-Tepeji",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0671-2026": {
       "numero": "EA-913003989-N0671-2026",
@@ -11298,9 +11298,9 @@
       "objeto": "Herramientas y Máquinas-Herramienta",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0672-2026": {
       "numero": "EA-913003989-N0672-2026",
@@ -11316,9 +11316,9 @@
       "objeto": "Material de Oficina",
       "solicitante": "la Subsecretaría de Operación Policial de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0673-2026": {
       "numero": "EA-913003989-N0673-2026",
@@ -11334,9 +11334,9 @@
       "objeto": "Material de Oficina",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0674-2026": {
       "numero": "EA-913003989-N0674-2026",
@@ -11352,9 +11352,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-06",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     }
   }
 }
