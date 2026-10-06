@@ -2,7 +2,7 @@ name: Monitor de licitaciones Hidalgo
 
 on:
   schedule:
-    - cron: "17 14 * * 1-5"   # Respaldo: L-V 8:17 AM centro de México (GitHub suele retrasarlo). El disparo principal viene de cron-job.org a las 8:00
+    - cron: "17 14-23 * * 1-5"   # L-V cada hora de 8:17 AM a 5:17 PM centro de México (GitHub retrasa u omite corridas; varias al día lo compensan)
   workflow_dispatch: {}
 
 permissions:
