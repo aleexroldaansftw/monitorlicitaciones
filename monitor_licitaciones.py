@@ -23,8 +23,8 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://eoficialia.hidalgo.gob.mx/LICITACIONES/VISTAS/WebFrmLC004.aspx"
-BASE = "https://eoficialia.hidalgo.gob.mx"
+URL = "https://siom.hidalgo.gob.mx/LICITACIONES/VISTAS/WebFrmLC004.aspx"
+BASE = "https://siom.hidalgo.gob.mx"
 
 RAIZ = Path(__file__).parent
 DATA_DIR = RAIZ / "data"
