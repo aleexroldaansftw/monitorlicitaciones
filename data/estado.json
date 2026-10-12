@@ -10858,7 +10858,7 @@
       "fecha_publicacion": "2026-09-29",
       "junta_aclaraciones": "2026-10-02",
       "apertura": "2026-10-07",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-02",
       "apertura_prog": "2026-10-07",
       "fallo_prog": null,
@@ -10930,7 +10930,7 @@
       "fecha_publicacion": "2026-09-30",
       "junta_aclaraciones": "2026-10-05",
       "apertura": "2026-10-08",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-05",
       "apertura_prog": "2026-10-08",
       "fallo_prog": null,
@@ -11020,7 +11020,7 @@
       "fecha_publicacion": "2026-10-01",
       "junta_aclaraciones": "2026-10-06",
       "apertura": "2026-10-09",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-06",
       "apertura_prog": "2026-10-09",
       "fallo_prog": null,
@@ -11038,7 +11038,7 @@
       "fecha_publicacion": "2026-10-01",
       "junta_aclaraciones": "2026-10-06",
       "apertura": "2026-10-09",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-06",
       "apertura_prog": "2026-10-09",
       "fallo_prog": null,
@@ -11092,7 +11092,7 @@
       "fecha_publicacion": "2026-10-01",
       "junta_aclaraciones": "2026-10-06",
       "apertura": "2026-10-09",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-06",
       "apertura_prog": "2026-10-09",
       "fallo_prog": null,
@@ -11110,7 +11110,7 @@
       "fecha_publicacion": "2026-10-01",
       "junta_aclaraciones": "2026-10-06",
       "apertura": "2026-10-09",
-      "fallo": null,
+      "fallo": "2026-10-12",
       "junta_prog": "2026-10-06",
       "apertura_prog": "2026-10-09",
       "fallo_prog": null,
@@ -11127,7 +11127,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": "2026-10-07",
-      "apertura": null,
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11145,7 +11145,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": "2026-10-07",
-      "apertura": null,
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11163,7 +11163,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": "2026-10-07",
-      "apertura": null,
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11181,7 +11181,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": "2026-10-07",
-      "apertura": null,
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11199,7 +11199,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": "2026-10-07",
-      "apertura": null,
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11217,7 +11217,7 @@
       "convocatoria": "147",
       "fecha_publicacion": "2026-10-02",
       "junta_aclaraciones": null,
-      "apertura": "2026-10-07",
+      "apertura": "2026-10-12",
       "fallo": null,
       "junta_prog": "2026-10-07",
       "apertura_prog": "2026-10-12",
@@ -11460,9 +11460,9 @@
       "objeto": "Asignación de combustible mediante monederos electrónicos",
       "solicitante": "la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0681-2026": {
       "numero": "EA-913003989-N0681-2026",
@@ -11478,9 +11478,9 @@
       "objeto": "Equipo educativo para el Laboratorio de Innovación Agrícola Sustentable (Tercer Procedimiento)",
       "solicitante": "la Subdirección de Servicios Administrativos del Instituto Tecnológico Superior de Huichapan",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0682-2026": {
       "numero": "EA-913003989-N0682-2026",
@@ -11496,9 +11496,9 @@
       "objeto": "Material Eléctrico",
       "solicitante": "la Universidad Politécnica de Pachuca",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0683-2026": {
       "numero": "EA-913003989-N0683-2026",
@@ -11514,9 +11514,9 @@
       "objeto": "Licencias Informáticas e Intelectuales (Segundo Procedimiento)",
       "solicitante": "la Universidad Politécnica Metropolitana de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0684-2026": {
       "numero": "EA-913003989-N0684-2026",
@@ -11532,9 +11532,9 @@
       "objeto": "Materiales de Grabación, Muebles de Oficina y Estantería, Equipos de Generación Eléctrica, Aparatos y Accesorios Eléctricos",
       "solicitante": "la Universidad Politécnica Metropolitana de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0685-2026": {
       "numero": "EA-913003989-N0685-2026",
@@ -11550,9 +11550,9 @@
       "objeto": "Equipamiento de la Estación de Ferrocarril “Animas”",
       "solicitante": "la Dirección General de Patrimonio Cultural de la Secretaría de Cultura del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0686-2026": {
       "numero": "EA-913003989-N0686-2026",
@@ -11568,9 +11568,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "del Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0687-2026": {
       "numero": "EA-913003989-N0687-2026",
@@ -11586,9 +11586,9 @@
       "objeto": "Equipamiento para Centros Educativos (Segundo Procedimiento)",
       "solicitante": "el Colegio de Bachilleres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0688-2026": {
       "numero": "EA-913003989-N0688-2026",
@@ -11604,9 +11604,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0689-2026": {
       "numero": "EA-913003989-N0689-2026",
@@ -11622,9 +11622,9 @@
       "objeto": "Instalación, Reparación y Mantenimiento de Equipo e Instrumental Médico y de Laboratorio",
       "solicitante": "el Centro de Rehabilitación Integral Hidalgo y Centros de Rehabilitación Integral Regionales del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0690-2026": {
       "numero": "EA-913003989-N0690-2026",
@@ -11640,9 +11640,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Comisión Estatal de Vivienda",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0691-2026": {
       "numero": "EA-913003989-N0691-2026",
@@ -11658,9 +11658,9 @@
       "objeto": "Materiales y Útiles Consumibles para el Procesamiento en Equipos y Bienes Informáticos, Refacciones y Accesorios Menores de Equipo de Cómputo y Tecnologías de la Información, Material de Oficina y Souvenirs (Segundo Procedimiento)",
       "solicitante": "la Universidad Politécnica de Tulancingo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0692-2026": {
       "numero": "EA-913003989-N0692-2026",
@@ -11676,9 +11676,9 @@
       "objeto": "Formas Valoradas",
       "solicitante": "el Sistema de Transporte Convencional de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0693-2026": {
       "numero": "EA-913003989-N0693-2026",
@@ -11694,9 +11694,9 @@
       "objeto": "Otros Equipos",
       "solicitante": "el Sistema de Transporte Convencional de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0694-2026": {
       "numero": "EA-913003989-N0694-2026",
@@ -11712,9 +11712,9 @@
       "objeto": "Equipamiento de Laboratorio (Segundo Procedimiento)",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0695-2026": {
       "numero": "EA-913003989-N0695-2026",
@@ -11730,9 +11730,9 @@
       "objeto": "Muebles de Oficina y Estantería",
       "solicitante": "el Centro de Justicia para las Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "14:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0696-2026": {
       "numero": "EA-913003989-N0696-2026",
@@ -11748,9 +11748,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Comisión Estatal de Vivienda",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0697-2026": {
       "numero": "EA-913003989-N0697-2026",
@@ -11766,9 +11766,9 @@
       "objeto": "Refacciones y Accesorios Menores Otros Bienes Muebles",
       "solicitante": "la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0698-2026": {
       "numero": "EA-913003989-N0698-2026",
@@ -11784,9 +11784,9 @@
       "objeto": "Refacciones y Accesorios Menores de Edificios",
       "solicitante": "la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     }
   }
 }
