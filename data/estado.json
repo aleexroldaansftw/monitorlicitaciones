@@ -11540,7 +11540,7 @@
       "numero": "EA-913003989-N0685-2026",
       "convocatoria": "150",
       "fecha_publicacion": "2026-10-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-12",
@@ -11558,7 +11558,7 @@
       "numero": "EA-913003989-N0686-2026",
       "convocatoria": "150",
       "fecha_publicacion": "2026-10-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-12",
@@ -11576,7 +11576,7 @@
       "numero": "EA-913003989-N0687-2026",
       "convocatoria": "150",
       "fecha_publicacion": "2026-10-07",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-12",
@@ -11802,9 +11802,9 @@
       "objeto": "Materiales, Accesorios y Suministros de Laboratorio",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0700-2026": {
       "numero": "EA-913003989-N0700-2026",
@@ -11820,9 +11820,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Escuela de Música del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0701-2026": {
       "numero": "EA-913003989-N0701-2026",
@@ -11838,9 +11838,9 @@
       "objeto": "Formas Valoradas",
       "solicitante": "la Dirección General del Registro del Estado Familiar de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0702-2026": {
       "numero": "EA-913003989-N0702-2026",
@@ -11856,9 +11856,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "la División Científica de la Agencia de Investigación Criminal de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0703-2026": {
       "numero": "EA-913003989-N0703-2026",
@@ -11874,9 +11874,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     }
   }
 }
