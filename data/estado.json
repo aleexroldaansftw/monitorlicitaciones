@@ -11980,9 +11980,9 @@
       "objeto": "Blancos y Otros Productos Textiles, Excepto Prendas de Vestir (colchones)",
       "solicitante": "la Dirección General de Prevención y Reinserción Social de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "14:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0710-2026": {
       "numero": "EA-913003989-N0710-2026",
@@ -11998,9 +11998,9 @@
       "objeto": "Estudios e Investigaciones",
       "solicitante": "la Subsecretaría de Protección Civil y Gestión de Riesgos de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0711-2026": {
       "numero": "EA-913003989-N0711-2026",
@@ -12016,9 +12016,9 @@
       "objeto": "Equipo para Laboratorio en Ciencias en Alimentos",
       "solicitante": "el Instituto Tecnológico Superior del Oriente del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0712-2026": {
       "numero": "EA-913003989-N0712-2026",
@@ -12034,9 +12034,9 @@
       "objeto": "Equipamiento para el fortalecimiento de la infraestructura educativa de la Universidad Tecnológica de Tula-Tepeji",
       "solicitante": "la Universidad Tecnológica Tula Tepeji",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0713-2026": {
       "numero": "EA-913003989-N0713-2026",
@@ -12052,9 +12052,9 @@
       "objeto": "Bienes Informáticos, Licencias Informáticas e Intelectuales",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0714-2026": {
       "numero": "EA-913003989-N0714-2026",
@@ -12070,9 +12070,9 @@
       "objeto": "Muebles de Oficina y Estantería",
       "solicitante": "la Policía Industrial Bancaria del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0715-2026": {
       "numero": "EA-913003989-N0715-2026",
@@ -12088,9 +12088,9 @@
       "objeto": "Maquinaria y Equipo Industrial",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0716-2026": {
       "numero": "EA-913003989-N0716-2026",
@@ -12106,9 +12106,9 @@
       "objeto": "Equipos y Aparatos de Audio",
       "solicitante": "el Colegio del Estado de Hidalgo",
       "fecha_detectada": "2026-10-16",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     }
   }
 }
