@@ -11344,7 +11344,7 @@
       "fecha_publicacion": "2026-10-05",
       "junta_aclaraciones": "2026-10-13",
       "apertura": "2026-10-16",
-      "fallo": null,
+      "fallo": "2026-10-19",
       "junta_prog": "2026-10-08",
       "apertura_prog": "2026-10-13",
       "fallo_prog": null,
@@ -11614,7 +11614,7 @@
       "fecha_publicacion": "2026-10-08",
       "junta_aclaraciones": "2026-10-13",
       "apertura": "2026-10-16",
-      "fallo": null,
+      "fallo": "2026-10-19",
       "junta_prog": "2026-10-13",
       "apertura_prog": "2026-10-16",
       "fallo_prog": null,
@@ -11632,7 +11632,7 @@
       "fecha_publicacion": "2026-10-08",
       "junta_aclaraciones": "2026-10-13",
       "apertura": "2026-10-16",
-      "fallo": null,
+      "fallo": "2026-10-19",
       "junta_prog": "2026-10-13",
       "apertura_prog": "2026-10-16",
       "fallo_prog": null,
@@ -11650,7 +11650,7 @@
       "fecha_publicacion": "2026-10-08",
       "junta_aclaraciones": "2026-10-13",
       "apertura": "2026-10-16",
-      "fallo": null,
+      "fallo": "2026-10-19",
       "junta_prog": "2026-10-13",
       "apertura_prog": "2026-10-16",
       "fallo_prog": null,
@@ -11668,7 +11668,7 @@
       "fecha_publicacion": "2026-10-08",
       "junta_aclaraciones": "2026-10-13",
       "apertura": "2026-10-16",
-      "fallo": null,
+      "fallo": "2026-10-19",
       "junta_prog": "2026-10-13",
       "apertura_prog": "2026-10-16",
       "fallo_prog": null,
@@ -12124,9 +12124,9 @@
       "objeto": "Materiales y Útiles Consumibles para el Procesamiento en Equipos y Bienes Informáticos",
       "solicitante": "la Oficialía Mayor de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "14:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0718-2026": {
       "numero": "EA-913003989-N0718-2026",
@@ -12142,9 +12142,9 @@
       "objeto": "Silla y Mesa Escolar",
       "solicitante": "el Instituto Hidalguense de la Infraestructura Física Educativa",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0719-2026": {
       "numero": "EA-913003989-N0719-2026",
@@ -12160,9 +12160,9 @@
       "objeto": "Mobiliario y Equipo de Aulas Didácticas",
       "solicitante": "el Instituto Hidalguense de la Infraestructura Física Educativa",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0720-2026": {
       "numero": "EA-913003989-N0720-2026",
@@ -12178,9 +12178,9 @@
       "objeto": "Herramientas Menores",
       "solicitante": "el Centro de Justicia para las Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0721-2026": {
       "numero": "EA-913003989-N0721-2026",
@@ -12196,9 +12196,9 @@
       "objeto": "Material de Oficina (Segundo Procedimiento)",
       "solicitante": "el Instituto Hidalguense de Educación para Adultos",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0722-2026": {
       "numero": "EA-913003989-N0722-2026",
@@ -12214,9 +12214,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0723-2026": {
       "numero": "EA-913003989-N0723-2026",
@@ -12232,9 +12232,9 @@
       "objeto": "Mantenimiento de Maquinaria y Equipo",
       "solicitante": "la Dirección General de Infraestructura y Maquinaria de la Secretaría de Agricultura y Desarrollo Rural del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0724-2026": {
       "numero": "EA-913003989-N0724-2026",
@@ -12250,9 +12250,9 @@
       "objeto": "Otros Materiales y Artículos de Construcción y Reparación",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-19",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     }
   }
 }
