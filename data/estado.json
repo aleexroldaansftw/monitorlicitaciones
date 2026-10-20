@@ -12268,9 +12268,9 @@
       "objeto": "Servicios Integrales",
       "solicitante": "la Dirección General de Programas Turísticos y Alianzas Estratégicas de la Secretaría de Turismo del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-20",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0726-2026": {
       "numero": "EA-913003989-N0726-2026",
@@ -12286,9 +12286,9 @@
       "objeto": "Seguro Facultativo",
       "solicitante": "el Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo",
       "fecha_detectada": "2026-10-20",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "09:30"
+      "apertura_hora": "09:30",
+      "intentos_pdf": 1
     }
   }
 }
