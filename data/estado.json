@@ -12304,9 +12304,9 @@
       "objeto": "Mobiliario para el Bachillerato del Estado de Hidalgo",
       "solicitante": "el Instituto Hidalguense de la Infraestructura Física Educativa",
       "fecha_detectada": "2026-10-21",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0728-2026": {
       "numero": "EA-913003989-N0728-2026",
@@ -12322,9 +12322,9 @@
       "objeto": "Activos Intangibles, Servicios de Informática, Servicios Integrales",
       "solicitante": "la Comisión Estatal de Mejora Regulatoria en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-21",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0729-2026": {
       "numero": "EA-913003989-N0729-2026",
@@ -12340,9 +12340,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "la Dirección General de Control y Seguimiento a Entidades Paraestatales en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-21",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0730-2026": {
       "numero": "EA-913003989-N0730-2026",
@@ -12358,9 +12358,9 @@
       "objeto": "Servicios de Informática",
       "solicitante": "la Dirección General de Control y Seguimiento a Entidades Paraestatales de la Unidad de Planeación y Prospectiva en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-21",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0731-2026": {
       "numero": "EA-913003989-N0731-2026",
@@ -12376,9 +12376,9 @@
       "objeto": "Fortalecimiento Tecnológico para el Desarrollo de Proyectos de Infraestructura",
       "solicitante": "la Dirección de Infraestructura y Fomento Turístico dependiente de la Subsecretaría de Turismo de la Secretaría de Turismo del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-21",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     }
   }
 }
