@@ -12394,9 +12394,9 @@
       "objeto": "Servicio de Geolocalización",
       "solicitante": "la Central Estatal de Información, Investigación e Inteligencia de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-22",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0733-2026": {
       "numero": "EA-913003989-N0733-2026",
@@ -12412,9 +12412,9 @@
       "objeto": "Formas Valoradas",
       "solicitante": "el Sistema de Transporte Convencional de Hidalgo",
       "fecha_detectada": "2026-10-22",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0734-2026": {
       "numero": "EA-913003989-N0734-2026",
@@ -12430,9 +12430,9 @@
       "objeto": "Materiales y Útiles Consumibles para el Procesamiento en Equipos y Bienes Informáticos",
       "solicitante": "el Sistema Integrado de Transporte Masivo de Hidalgo",
       "fecha_detectada": "2026-10-22",
-      "intentos_pdf": 1,
       "junta_hora": "11:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     }
   }
 }
