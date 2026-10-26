@@ -11972,7 +11972,7 @@
       "fecha_publicacion": "2026-10-15",
       "junta_aclaraciones": "2026-10-20",
       "apertura": "2026-10-23",
-      "fallo": null,
+      "fallo": "2026-10-26",
       "junta_prog": "2026-10-20",
       "apertura_prog": "2026-10-23",
       "fallo_prog": null,
@@ -12115,7 +12115,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12133,7 +12133,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12151,7 +12151,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12168,7 +12168,7 @@
       "numero": "EA-913003989-N0720-2026",
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
-      "junta_aclaraciones": "2026-10-21",
+      "junta_aclaraciones": "2026-10-26",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-21",
@@ -12187,7 +12187,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12205,7 +12205,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12223,7 +12223,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12241,7 +12241,7 @@
       "convocatoria": "156",
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12259,7 +12259,7 @@
       "convocatoria": "157",
       "fecha_publicacion": "2026-10-19",
       "junta_aclaraciones": "2026-10-21",
-      "apertura": null,
+      "apertura": "2026-10-26",
       "fallo": null,
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
@@ -12276,7 +12276,7 @@
       "numero": "EA-913003989-N0726-2026",
       "convocatoria": "157",
       "fecha_publicacion": "2026-10-19",
-      "junta_aclaraciones": "2026-10-21",
+      "junta_aclaraciones": "2026-10-26",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-21",
@@ -12384,7 +12384,7 @@
       "numero": "EA-913003989-N0732-2026",
       "convocatoria": "159",
       "fecha_publicacion": "2026-10-21",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-26",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-26",
@@ -12402,7 +12402,7 @@
       "numero": "EA-913003989-N0733-2026",
       "convocatoria": "159",
       "fecha_publicacion": "2026-10-21",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-26",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-26",
@@ -12420,7 +12420,7 @@
       "numero": "EA-913003989-N0734-2026",
       "convocatoria": "159",
       "fecha_publicacion": "2026-10-21",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-26",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-26",
@@ -12448,9 +12448,9 @@
       "objeto": "Estudios e Investigaciones",
       "solicitante": "la Subsecretaría de Planeación y Evaluación de la Secretaría de Educación Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "10:00"
+      "apertura_hora": "10:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0736-2026": {
       "numero": "EA-913003989-N0736-2026",
@@ -12466,9 +12466,9 @@
       "objeto": "Muebles de Oficina y Estantería, Otros Equipos, Equipo de Administración",
       "solicitante": "el Consejo de Ciencia, Tecnología e Innovación de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "10:30"
+      "apertura_hora": "10:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0737-2026": {
       "numero": "EA-913003989-N0737-2026",
@@ -12484,9 +12484,9 @@
       "objeto": "Material Eléctrico, Otros Materiales y Artículos de Construcción y Reparación",
       "solicitante": "el Centro de Justicia para las Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0738-2026": {
       "numero": "EA-913003989-N0738-2026",
@@ -12502,9 +12502,9 @@
       "objeto": "Material de Limpieza (Segundo Procedimiento)",
       "solicitante": "el Centro de Justicia para Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0739-2026": {
       "numero": "EA-913003989-N0739-2026",
@@ -12520,9 +12520,9 @@
       "objeto": "Equipo para el Taller de Topografía",
       "solicitante": "el Instituto Tecnológico Superior del Oriente del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0740-2026": {
       "numero": "EA-913003989-N0740-2026",
@@ -12538,9 +12538,9 @@
       "objeto": "Activos Intangibles",
       "solicitante": "la Coordinación General de Normatividad y Entidades Paraestatales en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0741-2026": {
       "numero": "EA-913003989-N0741-2026",
@@ -12556,9 +12556,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "la Coordinación General de Normatividad y Entidades Paraestatales en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0742-2026": {
       "numero": "EA-913003989-N0742-2026",
@@ -12574,9 +12574,9 @@
       "objeto": "Activos Intangibles",
       "solicitante": "la Dirección General de Control y Seguimiento a Entidades Paraestatales en conjunto con la Dirección General de Administración de la Unidad de Planeación y Prospectiva del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-26",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     }
   }
 }
