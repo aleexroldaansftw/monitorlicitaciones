@@ -12044,7 +12044,7 @@
       "fecha_publicacion": "2026-10-15",
       "junta_aclaraciones": "2026-10-20",
       "apertura": "2026-10-23",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-20",
       "apertura_prog": "2026-10-23",
       "fallo_prog": null,
@@ -12080,7 +12080,7 @@
       "fecha_publicacion": "2026-10-15",
       "junta_aclaraciones": "2026-10-20",
       "apertura": "2026-10-23",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-20",
       "apertura_prog": "2026-10-23",
       "fallo_prog": null,
@@ -12098,7 +12098,7 @@
       "fecha_publicacion": "2026-10-15",
       "junta_aclaraciones": "2026-10-20",
       "apertura": "2026-10-23",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-20",
       "apertura_prog": "2026-10-23",
       "fallo_prog": null,
@@ -12116,7 +12116,7 @@
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
       "apertura": "2026-10-26",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
       "fallo_prog": null,
@@ -12134,7 +12134,7 @@
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
       "apertura": "2026-10-26",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
       "fallo_prog": null,
@@ -12152,7 +12152,7 @@
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
       "apertura": "2026-10-26",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
       "fallo_prog": null,
@@ -12188,7 +12188,7 @@
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
       "apertura": "2026-10-26",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
       "fallo_prog": null,
@@ -12206,7 +12206,7 @@
       "fecha_publicacion": "2026-10-16",
       "junta_aclaraciones": "2026-10-21",
       "apertura": "2026-10-26",
-      "fallo": null,
+      "fallo": "2026-10-27",
       "junta_prog": "2026-10-21",
       "apertura_prog": "2026-10-26",
       "fallo_prog": null,
@@ -12592,9 +12592,9 @@
       "objeto": "Reparación Mayor de Vehículos",
       "solicitante": "la Dirección General de Recursos Materiales de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0744-2026": {
       "numero": "EA-913003989-N0744-2026",
@@ -12610,9 +12610,9 @@
       "objeto": "Asignaciones Presupuestarias al Poder Ejecutivo (Sombreros y Chalecos)",
       "solicitante": "la Secretaría de Contraloría del Poder Ejecutivo del Gobierno del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "12:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0745-2026": {
       "numero": "EA-913003989-N0745-2026",
@@ -12628,9 +12628,9 @@
       "objeto": "Vestuario y Uniformes",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "13:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0746-2026": {
       "numero": "EA-913003989-N0746-2026",
@@ -12646,9 +12646,9 @@
       "objeto": "Refacciones y Accesorios Menores Otros Bienes Muebles (Segundo Procedimiento)",
       "solicitante": "la Comisión de Agua y Alcantarillado de Sistemas Intermunicipales",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "12:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0747-2026": {
       "numero": "EA-913003989-N0747-2026",
@@ -12664,9 +12664,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0748-2026": {
       "numero": "EA-913003989-N0748-2026",
@@ -12682,9 +12682,9 @@
       "objeto": "Herramientas y Máquinas-Herramienta (Segundo Procedimiento)",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0749-2026": {
       "numero": "EA-913003989-N0749-2026",
@@ -12700,9 +12700,9 @@
       "objeto": "Material de Oficina",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0750-2026": {
       "numero": "EA-913003989-N0750-2026",
@@ -12718,9 +12718,9 @@
       "objeto": "Vehículos y Equipo Terrestre (Segundo Procedimiento)",
       "solicitante": "la Universidad Tecnológica de Tula-Tepeji",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0751-2026": {
       "numero": "EA-913003989-N0751-2026",
@@ -12736,9 +12736,9 @@
       "objeto": "Equipo Médico y de Laboratorio (Segundo Procedimiento)",
       "solicitante": "la Universidad Tecnológica de Tula-Tepeji",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0752-2026": {
       "numero": "EA-913003989-N0752-2026",
@@ -12754,9 +12754,9 @@
       "objeto": "Material Eléctrico",
       "solicitante": "la Universidad Politécnica de Pachuca",
       "fecha_detectada": "2026-10-27",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "16:30"
+      "apertura_hora": "16:30",
+      "intentos_pdf": 1
     }
   }
 }
