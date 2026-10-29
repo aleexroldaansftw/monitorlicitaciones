@@ -12952,9 +12952,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Universidad Digital del Estado de Hidalgo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "14:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0764-2026": {
       "numero": "EA-913003989-N0764-2026",
@@ -12970,9 +12970,9 @@
       "objeto": "Material de Oficina",
       "solicitante": "el Centro de Justicia para las Mujeres del Estado de Hidalgo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "14:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0765-2026": {
       "numero": "EA-913003989-N0765-2026",
@@ -12988,9 +12988,9 @@
       "objeto": "Equipo de Construcción",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "15:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0766-2026": {
       "numero": "EA-913003989-N0766-2026",
@@ -13006,9 +13006,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0767-2026": {
       "numero": "EA-913003989-N0767-2026",
@@ -13024,9 +13024,9 @@
       "objeto": "Equipo de Construcción",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0768-2026": {
       "numero": "EA-913003989-N0768-2026",
@@ -13042,9 +13042,9 @@
       "objeto": "Muebles de Oficina y Estantería",
       "solicitante": "la Comisión Estatal de Vivienda",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0769-2026": {
       "numero": "EA-913003989-N0769-2026",
@@ -13060,9 +13060,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0770-2026": {
       "numero": "EA-913003989-N0770-2026",
@@ -13078,9 +13078,9 @@
       "objeto": "Licencias Informáticas e Intelectuales",
       "solicitante": "la Policía Industrial Bancaria del Estado de Hidalgo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0771-2026": {
       "numero": "EA-913003989-N0771-2026",
@@ -13096,9 +13096,9 @@
       "objeto": "Activos Intangibles",
       "solicitante": "la Universidad Politécnica de Tulancingo",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "16:30"
+      "apertura_hora": "16:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0772-2026": {
       "numero": "EA-913003989-N0772-2026",
@@ -13114,9 +13114,9 @@
       "objeto": "Equipamiento para el Fortalecimiento a la Infraestructura Educativa",
       "solicitante": "la Universidad Politécnica de Francisco I. Madero",
       "fecha_detectada": "2026-10-29",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "17:00"
+      "apertura_hora": "17:00",
+      "intentos_pdf": 1
     }
   }
 }
