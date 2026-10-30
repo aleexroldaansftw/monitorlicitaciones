@@ -12762,7 +12762,7 @@
       "numero": "EA-913003989-N0753-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12780,7 +12780,7 @@
       "numero": "EA-913003989-N0754-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12798,7 +12798,7 @@
       "numero": "EA-913003989-N0755-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12816,7 +12816,7 @@
       "numero": "EA-913003989-N0756-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12834,7 +12834,7 @@
       "numero": "EA-913003989-N0757-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12852,7 +12852,7 @@
       "numero": "EA-913003989-N0758-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12870,7 +12870,7 @@
       "numero": "EA-913003989-N0759-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12888,7 +12888,7 @@
       "numero": "EA-913003989-N0760-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12906,7 +12906,7 @@
       "numero": "EA-913003989-N0761-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -12924,7 +12924,7 @@
       "numero": "EA-913003989-N0762-2026",
       "convocatoria": "162",
       "fecha_publicacion": "2026-10-27",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-10-30",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-10-30",
@@ -13132,9 +13132,9 @@
       "objeto": "Servicio Global",
       "solicitante": "la Dirección General de Administración de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "09:00",
-      "apertura_hora": "17:30"
+      "apertura_hora": "17:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0774-2026": {
       "numero": "EA-913003989-N0774-2026",
@@ -13150,9 +13150,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "09:30",
-      "apertura_hora": "18:00"
+      "apertura_hora": "18:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0775-2026": {
       "numero": "EA-913003989-N0775-2026",
@@ -13168,9 +13168,9 @@
       "objeto": "Activos Intangibles",
       "solicitante": "la Coordinación General del Distrito de Educación, Salud, Ciencia, Tecnología e Innovación",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "18:30"
+      "apertura_hora": "18:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0776-2026": {
       "numero": "EA-913003989-N0776-2026",
@@ -13186,9 +13186,9 @@
       "objeto": "Medicinas y Productos Farmacéuticos",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "19:00"
+      "apertura_hora": "19:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0777-2026": {
       "numero": "EA-913003989-N0777-2026",
@@ -13204,9 +13204,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Subsecretaría de Operación Policial de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "19:30"
+      "apertura_hora": "19:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0778-2026": {
       "numero": "EA-913003989-N0778-2026",
@@ -13222,9 +13222,9 @@
       "objeto": "Muebles de Oficina, Estantería y Equipo de Administración",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "20:30",
-      "apertura_hora": "20:00"
+      "apertura_hora": "20:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0779-2026": {
       "numero": "EA-913003989-N0779-2026",
@@ -13240,9 +13240,9 @@
       "objeto": "Equipos y Aparatos Audiovisuales",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "21:00",
-      "apertura_hora": "20:30"
+      "apertura_hora": "20:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0780-2026": {
       "numero": "EA-913003989-N0780-2026",
@@ -13258,9 +13258,9 @@
       "objeto": "Servicios de Informática",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-10-30",
-      "intentos_pdf": 1,
       "junta_hora": "21:30",
-      "apertura_hora": "21:00"
+      "apertura_hora": "21:00",
+      "intentos_pdf": 1
     }
   }
 }
