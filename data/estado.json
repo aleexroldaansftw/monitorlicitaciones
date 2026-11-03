@@ -13276,9 +13276,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0782-2026": {
       "numero": "EA-913003989-N0782-2026",
@@ -13294,9 +13294,9 @@
       "objeto": "Muebles de Oficina, Estantería y Equipo de Administración",
       "solicitante": "la Universidad Politécnica de Francisco I. Madero",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0783-2026": {
       "numero": "EA-913003989-N0783-2026",
@@ -13312,9 +13312,9 @@
       "objeto": "Equipamiento Integral para la Cámara fría de SEMEFO",
       "solicitante": "la División Científica de la Agencia de Investigación Criminal de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0784-2026": {
       "numero": "EA-913003989-N0784-2026",
@@ -13330,9 +13330,9 @@
       "objeto": "Servicios de Informática, Instalación, Reparación y Mantenimiento de Equipo e Instrumental Médico y de Laboratorio",
       "solicitante": "de la División Científica de la Agencia de Investigación Criminal de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0785-2026": {
       "numero": "EA-913003989-N0785-2026",
@@ -13348,9 +13348,9 @@
       "objeto": "Servicios Integrales de Infraestructura de Cómputo",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0786-2026": {
       "numero": "EA-913003989-N0786-2026",
@@ -13366,9 +13366,9 @@
       "objeto": "Servicios de Informática",
       "solicitante": "la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "16:30"
+      "apertura_hora": "16:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0787-2026": {
       "numero": "EA-913003989-N0787-2026",
@@ -13384,9 +13384,9 @@
       "objeto": "Activos Intangibles, Servicios de Informática",
       "solicitante": "de la División Científica de la Agencia de Investigación Criminal de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "17:00"
+      "apertura_hora": "17:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0788-2026": {
       "numero": "EA-913003989-N0788-2026",
@@ -13402,9 +13402,9 @@
       "objeto": "Refacciones y Accesorios Menores de Equipo de Cómputo y Tecnologías de la Información, Bienes Informáticos, Equipos y Aparatos Audiovisuales, Licencias Informáticas e Intelectuales",
       "solicitante": "la Dirección General de Gestión de Calidad del Aire, de la Secretaría de Medio Ambiente y Recursos Naturales del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "20:30",
-      "apertura_hora": "17:30"
+      "apertura_hora": "17:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0789-2026": {
       "numero": "EA-913003989-N0789-2026",
@@ -13420,9 +13420,9 @@
       "objeto": "Otros Equipos, Equipo Educacional y Recreativo (Segundo Procedimiento)",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "21:00",
-      "apertura_hora": "18:00"
+      "apertura_hora": "18:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0790-2026": {
       "numero": "EA-913003989-N0790-2026",
@@ -13438,9 +13438,9 @@
       "objeto": "Equipamiento Educativo Integral de la Escuela de Música del Estado de Hidalgo",
       "solicitante": "la Dirección de Administración de la Escuela de Música del Estado de Hidalgo",
       "fecha_detectada": "2026-11-02",
-      "intentos_pdf": 1,
       "junta_hora": "21:30",
-      "apertura_hora": "18:30"
+      "apertura_hora": "18:30",
+      "intentos_pdf": 1
     }
   }
 }
