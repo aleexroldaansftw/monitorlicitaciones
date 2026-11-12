@@ -14408,9 +14408,9 @@
       "objeto": "Difusión de Programas y Actividades Gubernamentales",
       "solicitante": "la Subsecretaría de Prevención y Coordinación Institucional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0845-2026": {
       "numero": "EA-913003989-N0845-2026",
@@ -14426,9 +14426,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Dirección de Finanzas y Administración de la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas del Estado de Hidalgo",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0846-2026": {
       "numero": "EA-913003989-N0846-2026",
@@ -14444,9 +14444,9 @@
       "objeto": "Equipos y Aparatos Audiovisuales",
       "solicitante": "la Universidad Tecnológica Minera de Zimapán",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0847-2026": {
       "numero": "EA-913003989-N0847-2026",
@@ -14462,9 +14462,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0848-2026": {
       "numero": "EA-913003989-N0848-2026",
@@ -14480,9 +14480,9 @@
       "objeto": "Equipo de Construcción",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0849-2026": {
       "numero": "EA-913003989-N0849-2026",
@@ -14498,9 +14498,9 @@
       "objeto": "Muebles de Oficina, Estantería y Equipo de Administración (Segundo Procedimiento)",
       "solicitante": "la Universidad Politécnica de Francisco I. Madero",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0850-2026": {
       "numero": "EA-913003989-N0850-2026",
@@ -14516,9 +14516,9 @@
       "objeto": "Medicinas y Productos Farmacéuticos",
       "solicitante": "el Instituto de Formación Profesional de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-12",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     }
   }
 }
