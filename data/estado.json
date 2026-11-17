@@ -13681,7 +13681,7 @@
       "fecha_publicacion": "2026-11-05",
       "junta_aclaraciones": "2026-11-10",
       "apertura": "2026-11-13",
-      "fallo": null,
+      "fallo": "2026-11-13",
       "junta_prog": "2026-11-10",
       "apertura_prog": "2026-11-13",
       "fallo_prog": null,
@@ -14219,7 +14219,7 @@
       "numero": "EA-913003989-N0834-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14237,7 +14237,7 @@
       "numero": "EA-913003989-N0835-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14254,7 +14254,7 @@
       "numero": "EA-913003989-N0836-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14272,7 +14272,7 @@
       "numero": "EA-913003989-N0837-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14290,7 +14290,7 @@
       "numero": "EA-913003989-N0838-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14308,7 +14308,7 @@
       "numero": "EA-913003989-N0839-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14326,7 +14326,7 @@
       "numero": "EA-913003989-N0840-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14344,7 +14344,7 @@
       "numero": "EA-913003989-N0841-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14362,7 +14362,7 @@
       "numero": "EA-913003989-N0842-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14380,7 +14380,7 @@
       "numero": "EA-913003989-N0843-2026",
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-13",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-13",
@@ -14714,9 +14714,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Dirección General de Recursos Materiales de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0862-2026": {
       "numero": "EA-913003989-N0862-2026",
@@ -14732,9 +14732,9 @@
       "objeto": "Servicios Integrales de Telecomunicaciones y Redes de Transporte de Información",
       "solicitante": "la Dirección General de Innovación Gubernamental de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0863-2026": {
       "numero": "EA-913003989-N0863-2026",
@@ -14750,9 +14750,9 @@
       "objeto": "Herramientas y Maquinas – Herramientas",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0864-2026": {
       "numero": "EA-913003989-N0864-2026",
@@ -14768,9 +14768,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Universidad Tecnológica de la Huasteca Hidalguense",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0865-2026": {
       "numero": "EA-913003989-N0865-2026",
@@ -14786,9 +14786,9 @@
       "objeto": "Equipo de Construcción",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0866-2026": {
       "numero": "EA-913003989-N0866-2026",
@@ -14804,9 +14804,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "el Instituto Hidalguense de Financiamiento a la Educación Superior",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0867-2026": {
       "numero": "EA-913003989-N0867-2026",
@@ -14822,9 +14822,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Subsecretaría de Operación Policial de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0868-2026": {
       "numero": "EA-913003989-N0868-2026",
@@ -14840,9 +14840,9 @@
       "objeto": "Gastos de Oficina, Productos Alimenticios",
       "solicitante": "la Dirección General de Administración de la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "21:30",
-      "apertura_hora": "11:00"
+      "apertura_hora": "11:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0869-2026": {
       "numero": "EA-913003989-N0869-2026",
@@ -14858,9 +14858,9 @@
       "objeto": "Otros Equipos",
       "solicitante": "la Dirección General de Conservación de Carreteras Estatales de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0870-2026": {
       "numero": "EA-913003989-N0870-2026",
@@ -14876,9 +14876,9 @@
       "objeto": "Seguro Facultativo",
       "solicitante": "la Universidad Tecnológica de Mineral de la Reforma",
       "fecha_detectada": "2026-11-13",
-      "intentos_pdf": 1,
       "junta_hora": "20:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     }
   }
 }
