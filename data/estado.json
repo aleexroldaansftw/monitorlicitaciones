@@ -14894,9 +14894,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Coordinación de Tecnologías de la Información de la Secretaría de Hacienda del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "15:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0872-2026": {
       "numero": "EA-913003989-N0872-2026",
@@ -14912,9 +14912,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Universidad Politécnica de Huejutla",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0873-2026": {
       "numero": "EA-913003989-N0873-2026",
@@ -14930,9 +14930,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Universidad Politécnica de Huejutla",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0874-2026": {
       "numero": "EA-913003989-N0874-2026",
@@ -14948,9 +14948,9 @@
       "objeto": "Medicinas y Productos Farmacéuticos",
       "solicitante": "la Ciudad de las Mujeres",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0875-2026": {
       "numero": "EA-913003989-N0875-2026",
@@ -14966,9 +14966,9 @@
       "objeto": "Servicio de Acceso a Internet, Redes y Procesamiento de Información",
       "solicitante": "La Ciudad de las Mujeres",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0876-2026": {
       "numero": "EA-913003989-N0876-2026",
@@ -14984,9 +14984,9 @@
       "objeto": "Vehículos y Equipo Terrestre",
       "solicitante": "la Universidad Tecnológica de Mineral de la Reforma",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0877-2026": {
       "numero": "EA-913003989-N0877-2026",
@@ -15002,9 +15002,9 @@
       "objeto": "Muebles de Oficina y Estantería",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0878-2026": {
       "numero": "EA-913003989-N0878-2026",
@@ -15020,9 +15020,9 @@
       "objeto": "Equipo Médico y de Laboratorio",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0879-2026": {
       "numero": "EA-913003989-N0879-2026",
@@ -15038,9 +15038,9 @@
       "objeto": "Equipos y Aparatos de Comunicación y Telecomunicación",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaria de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0880-2026": {
       "numero": "EA-913003989-N0880-2026",
@@ -15056,9 +15056,9 @@
       "objeto": "Servicios de Acceso de Internet, Redes y Procesamiento de Información",
       "solicitante": "la Coordinación de Tecnologías de la Información de la Secretaría de Hacienda del Gobierno del Estado de Hidalgo",
       "fecha_detectada": "2026-11-17",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     }
   }
 }
