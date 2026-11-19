@@ -14041,7 +14041,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14077,7 +14077,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14095,7 +14095,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14113,7 +14113,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14131,7 +14131,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14149,7 +14149,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14203,7 +14203,7 @@
       "fecha_publicacion": "2026-11-09",
       "junta_aclaraciones": "2026-11-12",
       "apertura": "2026-11-18",
-      "fallo": null,
+      "fallo": "2026-11-19",
       "junta_prog": "2026-11-12",
       "apertura_prog": "2026-11-18",
       "fallo_prog": null,
@@ -14220,7 +14220,7 @@
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
       "junta_aclaraciones": "2026-11-13",
-      "apertura": null,
+      "apertura": "2026-11-19",
       "fallo": null,
       "junta_prog": "2026-11-13",
       "apertura_prog": "2026-11-19",
@@ -14238,7 +14238,7 @@
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
       "junta_aclaraciones": "2026-11-13",
-      "apertura": null,
+      "apertura": "2026-11-19",
       "fallo": null,
       "junta_prog": "2026-11-13",
       "apertura_prog": null,
@@ -14255,7 +14255,7 @@
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
       "junta_aclaraciones": "2026-11-13",
-      "apertura": null,
+      "apertura": "2026-11-19",
       "fallo": null,
       "junta_prog": "2026-11-13",
       "apertura_prog": "2026-11-19",
@@ -14273,7 +14273,7 @@
       "convocatoria": "171",
       "fecha_publicacion": "2026-11-10",
       "junta_aclaraciones": "2026-11-13",
-      "apertura": null,
+      "apertura": "2026-11-19",
       "fallo": null,
       "junta_prog": "2026-11-13",
       "apertura_prog": "2026-11-19",
@@ -15074,9 +15074,9 @@
       "objeto": "Prendas de Seguridad y Protección Personal",
       "solicitante": "la Dirección General de Prevención, Control y Combate de Incendios Forestales, de la Secretaría de Medio Ambiente y Recursos Naturales del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0882-2026": {
       "numero": "EA-913003989-N0882-2026",
@@ -15092,14 +15092,14 @@
       "objeto": "Mantenimiento de Vehículos",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0883-2026": {
       "numero": "EA-913003989-N0883-2026",
       "convocatoria": "176",
-      "fecha_publicacion": "2026-11-18",
+      "fecha_publicacion": "2026-11-19",
       "junta_aclaraciones": null,
       "apertura": null,
       "fallo": null,
@@ -15110,9 +15110,9 @@
       "objeto": "Otros Materiales y Artículos de Construcción y Reparación",
       "solicitante": "el Colegio de Educación Profesional Técnica del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0884-2026": {
       "numero": "EA-913003989-N0884-2026",
@@ -15128,9 +15128,9 @@
       "objeto": "Equipo de Construcción",
       "solicitante": "el Centro Estatal de Maquinaria para el Desarrollo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0885-2026": {
       "numero": "EA-913003989-N0885-2026",
@@ -15146,9 +15146,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "el Instituto Tecnológico Superior del Oriente del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0886-2026": {
       "numero": "EA-913003989-N0886-2026",
@@ -15164,9 +15164,9 @@
       "objeto": "Póliza de Seguro",
       "solicitante": "el Consejo Estatal para la Cultura y las Artes de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0887-2026": {
       "numero": "EA-913003989-N0887-2026",
@@ -15182,9 +15182,9 @@
       "objeto": "Refacciones y Accesorios Menores de Equipo de Cómputo y Tecnologías de la Información",
       "solicitante": "la Oficialía Mayor de la Procuraduría General de Justicia del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0888-2026": {
       "numero": "EA-913003989-N0888-2026",
@@ -15200,9 +15200,9 @@
       "objeto": "Sustancias Químicas",
       "solicitante": "el Centro Estatal de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0889-2026": {
       "numero": "EA-913003989-N0889-2026",
@@ -15218,9 +15218,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Policía Industrial Bancaria del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "20:30",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0890-2026": {
       "numero": "EA-913003989-N0890-2026",
@@ -15236,9 +15236,9 @@
       "objeto": "Bienes Informáticos, Cámaras Fotográficas y de Video, Herramientas Menores",
       "solicitante": "El Colegio del Estado de Hidalgo",
       "fecha_detectada": "2026-11-18",
-      "intentos_pdf": 1,
       "junta_hora": "21:00",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     }
   }
 }
