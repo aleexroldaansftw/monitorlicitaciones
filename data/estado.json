@@ -14740,7 +14740,7 @@
       "numero": "EA-913003989-N0863-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14758,7 +14758,7 @@
       "numero": "EA-913003989-N0864-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14776,7 +14776,7 @@
       "numero": "EA-913003989-N0865-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14794,7 +14794,7 @@
       "numero": "EA-913003989-N0866-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-17",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14812,7 +14812,7 @@
       "numero": "EA-913003989-N0867-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14848,7 +14848,7 @@
       "numero": "EA-913003989-N0869-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -14866,7 +14866,7 @@
       "numero": "EA-913003989-N0870-2026",
       "convocatoria": "174",
       "fecha_publicacion": "2026-11-13",
-      "junta_aclaraciones": null,
+      "junta_aclaraciones": "2026-11-19",
       "apertura": null,
       "fallo": null,
       "junta_prog": "2026-11-19",
@@ -15254,9 +15254,9 @@
       "objeto": "Equipos y Aparatos Audiovisuales",
       "solicitante": "la Universidad Tecnológica de la Huasteca Hidalguense",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "16:00",
-      "apertura_hora": "11:30"
+      "apertura_hora": "11:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0892-2026": {
       "numero": "EA-913003989-N0892-2026",
@@ -15272,9 +15272,9 @@
       "objeto": "Bienes Informáticos",
       "solicitante": "la Comisión Ejecutiva de Atención a Víctimas del Estado de Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "16:30",
-      "apertura_hora": "12:00"
+      "apertura_hora": "12:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0893-2026": {
       "numero": "EA-913003989-N0893-2026",
@@ -15290,9 +15290,9 @@
       "objeto": "Material Electrónico",
       "solicitante": "la Universidad Politécnica de Pachuca",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "17:00",
-      "apertura_hora": "12:30"
+      "apertura_hora": "12:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0894-2026": {
       "numero": "EA-913003989-N0894-2026",
@@ -15308,9 +15308,9 @@
       "objeto": "Materiales, Accesorios y Suministros Médicos",
       "solicitante": "la Ciudad de las Mujeres",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "17:30",
-      "apertura_hora": "13:00"
+      "apertura_hora": "13:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0895-2026": {
       "numero": "EA-913003989-N0895-2026",
@@ -15326,9 +15326,9 @@
       "objeto": "Instalación, Reparación y Mantenimiento de Equipo e Instrumental Médico y de Laboratorio",
       "solicitante": "la Ciudad de las Mujeres Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "18:00",
-      "apertura_hora": "13:30"
+      "apertura_hora": "13:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0896-2026": {
       "numero": "EA-913003989-N0896-2026",
@@ -15344,9 +15344,9 @@
       "objeto": "Equipos y Aparatos de Comunicación y Telecomunicación, Bienes Informáticos",
       "solicitante": "la Comisión Estatal de Vivienda",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "18:30",
-      "apertura_hora": "14:00"
+      "apertura_hora": "14:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0897-2026": {
       "numero": "EA-913003989-N0897-2026",
@@ -15362,9 +15362,9 @@
       "objeto": "Combustibles y Lubricantes para Vehículos y Equipos Terrestres",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "19:00",
-      "apertura_hora": "14:30"
+      "apertura_hora": "14:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0898-2026": {
       "numero": "EA-913003989-N0898-2026",
@@ -15380,9 +15380,9 @@
       "objeto": "Bienes Informáticos (Segundo Procedimiento)",
       "solicitante": "el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "19:30",
-      "apertura_hora": "15:00"
+      "apertura_hora": "15:00",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0899-2026": {
       "numero": "EA-913003989-N0899-2026",
@@ -15398,9 +15398,9 @@
       "objeto": "Combustibles y Lubricantes para Vehículos y Equipos Terrestres (Segundo Procedimiento)",
       "solicitante": "el Consejo Estatal para la Cultura y las Artes de Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "20:00",
-      "apertura_hora": "15:30"
+      "apertura_hora": "15:30",
+      "intentos_pdf": 1
     },
     "EA-913003989-N0900-2026": {
       "numero": "EA-913003989-N0900-2026",
@@ -15416,9 +15416,9 @@
       "objeto": "Equipamiento Educativo Integral de la Escuela de Música del Estado de Hidalgo (Segundo Procedimiento)",
       "solicitante": "la Dirección de Administración de la Escuela de Música del Estado de Hidalgo",
       "fecha_detectada": "2026-11-19",
-      "intentos_pdf": 1,
       "junta_hora": "20:30",
-      "apertura_hora": "16:00"
+      "apertura_hora": "16:00",
+      "intentos_pdf": 1
     }
   }
 }
